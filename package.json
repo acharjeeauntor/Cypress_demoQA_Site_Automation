@@ -1,0 +1,25 @@
+{
+  "name": "demoqasiteautomation",
+  "version": "1.0.0",
+  "description": "This is Auntor's First Cypress project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "headed": "npx cypress run --headed",
+    "headless": "npx cypress run -- headless"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acharjeeauntor/demoQA_Site_Automation.git"
+  },
+  "author": "Auntor Acharja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acharjeeauntor/demoQA_Site_Automation/issues"
+  },
+  "homepage": "https://github.com/acharjeeauntor/demoQA_Site_Automation#readme",
+  "dependencies": {
+    "cypress": "^9.2.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
