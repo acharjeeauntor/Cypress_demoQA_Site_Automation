@@ -1,0 +1,77 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Verify Placeholders are visiable or not",
+    "uid" : "b33827a99a12c59e",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1642174387763,
+      "stop" : 1642174388225,
+      "duration" : 462
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Test Text Box Feature",
+    "children" : [ {
+      "name" : "Verify Placeholders are visiable or not",
+      "uid" : "e2388008aa9b4b91",
+      "parentUid" : "b6a5cc648564226031c793700a5b28e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642174388227,
+        "stop" : 1642174388298,
+        "duration" : 71
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Text box is working properly or not using valid and invalid input",
+      "uid" : "ad9e87ed88d0463",
+      "parentUid" : "b6a5cc648564226031c793700a5b28e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642174388299,
+        "stop" : 1642174398654,
+        "duration" : 10355
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b6a5cc648564226031c793700a5b28e8"
+  }, {
+    "name" : "Verify Text box is working properly or not using valid and invalid input",
+    "uid" : "dc976d213667a91e",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1642174388240,
+      "stop" : 1642174398536,
+      "duration" : 10296
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "packages"
+}

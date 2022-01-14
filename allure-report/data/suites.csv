@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 14 21:33:08 BDT 2022","Fri Jan 14 21:33:08 BDT 2022","71","","Test Text Box Feature","","Test Text Box Feature","Verify Placeholders are visiable or not","Verify Placeholders are visiable or not",""
+"passed","Fri Jan 14 21:33:08 BDT 2022","Fri Jan 14 21:33:18 BDT 2022","10355","","Test Text Box Feature","","Test Text Box Feature","Verify Text box is working properly or not using valid and invalid input","Verify Text box is working properly or not using valid and invalid input",""
+"passed","Fri Jan 14 21:33:07 BDT 2022","Fri Jan 14 21:33:08 BDT 2022","462","","Test Text Box Feature","","","","Verify Placeholders are visiable or not",""
+"passed","Fri Jan 14 21:33:08 BDT 2022","Fri Jan 14 21:33:18 BDT 2022","10296","","Test Text Box Feature","","","","Verify Text box is working properly or not using valid and invalid input",""

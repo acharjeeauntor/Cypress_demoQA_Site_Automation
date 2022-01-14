@@ -1,0 +1,41 @@
+[ {
+  "uid" : "e2388008aa9b4b91",
+  "name" : "Verify Placeholders are visiable or not",
+  "time" : {
+    "start" : 1642174388227,
+    "stop" : 1642174388298,
+    "duration" : 71
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad9e87ed88d0463",
+  "name" : "Verify Text box is working properly or not using valid and invalid input",
+  "time" : {
+    "start" : 1642174388299,
+    "stop" : 1642174398654,
+    "duration" : 10355
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b33827a99a12c59e",
+  "name" : "Verify Placeholders are visiable or not",
+  "time" : {
+    "start" : 1642174387763,
+    "stop" : 1642174388225,
+    "duration" : 462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc976d213667a91e",
+  "name" : "Verify Text box is working properly or not using valid and invalid input",
+  "time" : {
+    "start" : 1642174388240,
+    "stop" : 1642174398536,
+    "duration" : 10296
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
