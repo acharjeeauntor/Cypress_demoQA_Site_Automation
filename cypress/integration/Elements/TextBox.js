@@ -1,6 +1,6 @@
 /// <reference types="cypress"/>
 
-import { TextBoxPage } from "../../PageObjects/TextBoxPage";
+import { TextBoxPage } from "../../PageObjects/ElementPages/TextBoxPage";
 
 before(() => {
     cy.visit("text-box")

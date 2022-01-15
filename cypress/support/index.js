@@ -19,6 +19,7 @@
 // require('./commands')
 import '@shelex/cypress-allure-plugin';
 require('cypress-xpath')
+import 'cypress-file-upload';
 require('./commands')
    Cypress.on('uncaught:exception', (err, runnable) => {
    // returning false here prevents Cypress from

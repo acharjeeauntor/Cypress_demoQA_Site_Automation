@@ -19,5 +19,6 @@
     "email":"Auntor@gmail.com",
     "currentAddress":"Uttora",
     "permanentAddress":"Pathrail"
-  }]
+  }],
+  "checkBoxData":["notes","react","angular","veu","public","private","wordFile"]
 }
