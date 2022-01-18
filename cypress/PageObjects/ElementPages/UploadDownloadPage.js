@@ -6,4 +6,8 @@ uploadFile(file){
     cy.get('#uploadFile').attachFile(file);
 }
 
+downloadFile(){
+    cy.get('#downloadButton').click()
+}
+
 }

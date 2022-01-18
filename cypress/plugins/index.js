@@ -28,3 +28,10 @@ module.exports = (on, config) => {
     allureWriter(on, config);
     return config;
 };
+
+
+const { isFileExist } = require('cy-verify-downloads');
+
+module.exports = (on, config) => {
+  on('task', { isFileExist })
+}

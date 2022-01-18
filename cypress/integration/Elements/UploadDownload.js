@@ -6,8 +6,15 @@ before(() => {
     cy.visit("upload-download")
 })
 
-
 describe('Test UploadDownloadPage Feature', () => {
+
+    it("Verify Download is working properly or not", () => {
+        const uploadDownload = new UploadDownloadPage()
+        const uploadImageFile = "sampleFile.jpeg"
+        uploadDownload.downloadFile()
+        cy.verifyDownload(uploadImageFile);
+
+    })
 
     it("Verify Upload is working properly or not", () => {
         const uploadDownload = new UploadDownloadPage()

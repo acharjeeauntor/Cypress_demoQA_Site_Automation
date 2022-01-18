@@ -26,6 +26,7 @@
 
 
 require('cypress-xpath')
+require('cy-verify-downloads').addCustomCommand();
 
 Cypress.Commands.add('findElementById', (id) => { 
     cy.get(`#${id}`)
@@ -42,3 +43,4 @@ Cypress.Commands.add('findElementById', (id) => {
  Cypress.Commands.add('findElementByTestId',(testId)=>{
     cy.get(`[data-cy='${testId}']`)
     })
+    
