@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1642868883338' stop='1642868885568'>
+    <name>Test Selector Menu Page</name>
+    <title>Test Selector Menu Page</title>
+    <test-cases>
+        <test-case start='1642868883494' status='passed' stop='1642868884114'>
+            <name>Verify Select value is working propely or not</name>
+            <title>Verify Select value is working propely or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1642868884140' status='passed' stop='1642868884818'>
+            <name>Verify Select One is working propely or not</name>
+            <title>Verify Select One is working propely or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1642868884826' status='passed' stop='1642868885224'>
+            <name>Verify Old Style Select Menu is working propely or not</name>
+            <title>Verify Old Style Select Menu is working propely or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1642868885250' status='passed' stop='1642868885566'>
+            <name>Verify Standard Multi Select is working propely or not</name>
+            <title>Verify Standard Multi Select is working propely or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

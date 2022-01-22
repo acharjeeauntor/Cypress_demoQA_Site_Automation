@@ -21,6 +21,7 @@ import '@shelex/cypress-allure-plugin';
 require('cypress-xpath')
 import 'cypress-file-upload';
 require('./commands')
+import '@4tw/cypress-drag-drop'
    Cypress.on('uncaught:exception', (err, runnable) => {
    // returning false here prevents Cypress from
  // failing the test

@@ -1,0 +1,50 @@
+{
+  "uid" : "5087b86fb6ddc481",
+  "name" : "Verify list select is working properly or not",
+  "fullName" : "Test Selectable .Verify list select is working properly or not",
+  "historyId" : "db645e646c246ae35cf733464a2517d6",
+  "time" : {
+    "start" : 1642868815703,
+    "stop" : 1642868816109,
+    "duration" : 406
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Selectable "
+  }, {
+    "name" : "testClass",
+    "value" : "Test Selectable "
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify list select is working properly or not"
+  }, {
+    "name" : "package",
+    "value" : "Test Selectable "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5087b86fb6ddc481.json",
+  "parameterValues" : [ ]
+}

@@ -1,33 +1,279 @@
 {
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
   "children" : [ {
-    "name" : "Verify Placeholders are visiable or not",
-    "uid" : "b33827a99a12c59e",
-    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642174387763,
-      "stop" : 1642174388225,
-      "duration" : 462
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
+    "name" : "Test alerts Feature",
+    "children" : [ {
+      "name" : "Verify simple alert is working properly or not",
+      "uid" : "86ccae70db0ae596",
+      "parentUid" : "a3a8f47d2a3f904f7613e55b5d626a04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868503848,
+        "stop" : 1642868504102,
+        "duration" : 254
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify simple alert after 5 second is working properly or not",
+      "uid" : "8c2bf3a1b04af71e",
+      "parentUid" : "a3a8f47d2a3f904f7613e55b5d626a04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868504206,
+        "stop" : 1642868510002,
+        "duration" : 5796
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Confirmation OK Alert message is working properly or not",
+      "uid" : "f6fb1d1b4244a265",
+      "parentUid" : "a3a8f47d2a3f904f7613e55b5d626a04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868510021,
+        "stop" : 1642868510209,
+        "duration" : 188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Confirmation Cancel Alert message is working properly or not",
+      "uid" : "3a53705e1d30cb24",
+      "parentUid" : "a3a8f47d2a3f904f7613e55b5d626a04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868510227,
+        "stop" : 1642868510403,
+        "duration" : 176
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify prompt Alert message is working properly or not",
+      "uid" : "b35ea308852c0bb",
+      "parentUid" : "a3a8f47d2a3f904f7613e55b5d626a04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868510415,
+        "stop" : 1642868510682,
+        "duration" : 267
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a3a8f47d2a3f904f7613e55b5d626a04"
+  }, {
+    "name" : "Test Browser Windows Feature",
+    "children" : [ {
+      "name" : "Verify Browser new Tab is working properly or not",
+      "uid" : "f418bd7d2e482561",
+      "parentUid" : "fdce1cf46395eba95e758acdc88e2224",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868524582,
+        "stop" : 1642868551418,
+        "duration" : 26836
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Browser new Window is working properly or not",
+      "uid" : "4cfe460e12a24e30",
+      "parentUid" : "fdce1cf46395eba95e758acdc88e2224",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868551448,
+        "stop" : 1642868556240,
+        "duration" : 4792
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fdce1cf46395eba95e758acdc88e2224"
+  }, {
+    "name" : "Test Modal Dialogs Feature",
+    "children" : [ {
+      "name" : "Verify small Modal Dialog is working properly or not",
+      "uid" : "c446226abfc36bb4",
+      "parentUid" : "02f0d4b987fcc1802075320f1a4c0edf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868596530,
+        "stop" : 1642868598220,
+        "duration" : 1690
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Large Modal Dialog is working properly or not",
+      "uid" : "ab27790a0a79f8ba",
+      "parentUid" : "02f0d4b987fcc1802075320f1a4c0edf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868598307,
+        "stop" : 1642868599615,
+        "duration" : 1308
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "02f0d4b987fcc1802075320f1a4c0edf"
+  }, {
+    "name" : "Test Button Feature",
+    "children" : [ {
+      "name" : "Verify buttons are working properly or not",
+      "uid" : "54e364a5307265",
+      "parentUid" : "c6b408d914efabbd689535fcf305d5e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868631805,
+        "stop" : 1642868632494,
+        "duration" : 689
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c6b408d914efabbd689535fcf305d5e9"
+  }, {
+    "name" : "Test CheckBox Feature",
+    "children" : [ {
+      "name" : "Verify Home checkbox can be checked or not",
+      "uid" : "dcd1ca501aa73fa0",
+      "parentUid" : "72f4d1da36c69d2f7c2d95d39f693aa9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868662526,
+        "stop" : 1642868662903,
+        "duration" : 377
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify multiple checkbox can be checked or not",
+      "uid" : "9fc301ecfb45c153",
+      "parentUid" : "72f4d1da36c69d2f7c2d95d39f693aa9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868662933,
+        "stop" : 1642868664762,
+        "duration" : 1829
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "72f4d1da36c69d2f7c2d95d39f693aa9"
+  }, {
+    "name" : "Test Radio button Feature",
+    "children" : [ {
+      "name" : "Verify No Radio button is disabled or not",
+      "uid" : "6f5d92e0758b67c8",
+      "parentUid" : "1a5cadf414c26caf0927cee2487a8384",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868691255,
+        "stop" : 1642868691298,
+        "duration" : 43
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Yes & Impressive Radio button can be checked or not",
+      "uid" : "913d67da78df71d8",
+      "parentUid" : "1a5cadf414c26caf0927cee2487a8384",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868691300,
+        "stop" : 1642868691652,
+        "duration" : 352
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1a5cadf414c26caf0927cee2487a8384"
   }, {
     "name" : "Test Text Box Feature",
     "children" : [ {
       "name" : "Verify Placeholders are visiable or not",
-      "uid" : "e2388008aa9b4b91",
+      "uid" : "48c0532af7aa0605",
       "parentUid" : "b6a5cc648564226031c793700a5b28e8",
       "status" : "passed",
       "time" : {
-        "start" : 1642174388227,
-        "stop" : 1642174388298,
-        "duration" : 71
+        "start" : 1642868719030,
+        "stop" : 1642868719149,
+        "duration" : 119
       },
       "flaky" : false,
       "newFailed" : false,
@@ -38,13 +284,13 @@
       "parameters" : [ ]
     }, {
       "name" : "Verify Text box is working properly or not using valid and invalid input",
-      "uid" : "ad9e87ed88d0463",
+      "uid" : "7a0fc63af7e54c15",
       "parentUid" : "b6a5cc648564226031c793700a5b28e8",
       "status" : "passed",
       "time" : {
-        "start" : 1642174388299,
-        "stop" : 1642174398654,
-        "duration" : 10355
+        "start" : 1642868719151,
+        "stop" : 1642868727496,
+        "duration" : 8345
       },
       "flaky" : false,
       "newFailed" : false,
@@ -56,22 +302,287 @@
     } ],
     "uid" : "b6a5cc648564226031c793700a5b28e8"
   }, {
-    "name" : "Verify Text box is working properly or not using valid and invalid input",
-    "uid" : "dc976d213667a91e",
-    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642174388240,
-      "stop" : 1642174398536,
-      "duration" : 10296
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  } ],
-  "name" : "packages"
+    "name" : "Test UploadDownloadPage Feature",
+    "children" : [ {
+      "name" : "Verify Download is working properly or not",
+      "uid" : "6f4c4e125626d221",
+      "parentUid" : "f3bdaed7ba3f5acf52e989d2b24f08e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868757379,
+        "stop" : 1642868757637,
+        "duration" : 258
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Upload is working properly or not",
+      "uid" : "2d56339b28f93c31",
+      "parentUid" : "f3bdaed7ba3f5acf52e989d2b24f08e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868757666,
+        "stop" : 1642868758832,
+        "duration" : 1166
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f3bdaed7ba3f5acf52e989d2b24f08e8"
+  }, {
+    "name" : "Test Student Registration Form",
+    "children" : [ {
+      "name" : "Verify empty field validation for Name,Gender,Mobile number input field",
+      "uid" : "f5f04667c2f7a7d8",
+      "parentUid" : "4084fc3859e9b91aee10c0b1fb7bdae7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868785166,
+        "stop" : 1642868785726,
+        "duration" : 560
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify invalid field validation for Email and Mobile number input field",
+      "uid" : "c1ae74fe733c08dd",
+      "parentUid" : "4084fc3859e9b91aee10c0b1fb7bdae7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868785815,
+        "stop" : 1642868788250,
+        "duration" : 2435
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify using valid input Student Registration Form can be submit",
+      "uid" : "218eb8f1bf573a0b",
+      "parentUid" : "4084fc3859e9b91aee10c0b1fb7bdae7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868788267,
+        "stop" : 1642868792360,
+        "duration" : 4093
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4084fc3859e9b91aee10c0b1fb7bdae7"
+  }, {
+    "name" : "Test Selectable ",
+    "children" : [ {
+      "name" : "Verify list select is working properly or not",
+      "uid" : "5087b86fb6ddc481",
+      "parentUid" : "53c6789038eda3f17ac7a2d6958fcda5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868815703,
+        "stop" : 1642868816109,
+        "duration" : 406
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Grid select is working properly or not",
+      "uid" : "1edc334c59ccb437",
+      "parentUid" : "53c6789038eda3f17ac7a2d6958fcda5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868816131,
+        "stop" : 1642868817159,
+        "duration" : 1028
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "53c6789038eda3f17ac7a2d6958fcda5"
+  }, {
+    "name" : "Test Auto Complete",
+    "children" : [ {
+      "name" : "Verify Multiple input Auto Complete",
+      "uid" : "f939bc8d372484f4",
+      "parentUid" : "43d481fc31d93facd25f49494e657120",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868838662,
+        "stop" : 1642868839806,
+        "duration" : 1144
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Single input Auto Complete",
+      "uid" : "491a1eda609892fe",
+      "parentUid" : "43d481fc31d93facd25f49494e657120",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868839876,
+        "stop" : 1642868840661,
+        "duration" : 785
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "43d481fc31d93facd25f49494e657120"
+  }, {
+    "name" : "Test Progress Page",
+    "children" : [ {
+      "name" : "Verify Progress Bar is working propely or not",
+      "uid" : "2357d056153aa40d",
+      "parentUid" : "6badbfe49d1bd3ce163c8b3e30c7286b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868863011,
+        "stop" : 1642868866492,
+        "duration" : 3481
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6badbfe49d1bd3ce163c8b3e30c7286b"
+  }, {
+    "name" : "Test Selector Menu Page",
+    "children" : [ {
+      "name" : "Verify Select value is working propely or not",
+      "uid" : "6d62e472b44e8c1f",
+      "parentUid" : "b3a09f05c46d785a45e28bf8c024c4cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868883494,
+        "stop" : 1642868884114,
+        "duration" : 620
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Select One is working propely or not",
+      "uid" : "8c7c21c024464508",
+      "parentUid" : "b3a09f05c46d785a45e28bf8c024c4cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868884140,
+        "stop" : 1642868884818,
+        "duration" : 678
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Old Style Select Menu is working propely or not",
+      "uid" : "2f0068873b022f0c",
+      "parentUid" : "b3a09f05c46d785a45e28bf8c024c4cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868884826,
+        "stop" : 1642868885224,
+        "duration" : 398
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Standard Multi Select is working propely or not",
+      "uid" : "57be2763c7efd4ef",
+      "parentUid" : "b3a09f05c46d785a45e28bf8c024c4cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868885250,
+        "stop" : 1642868885566,
+        "duration" : 316
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b3a09f05c46d785a45e28bf8c024c4cb"
+  }, {
+    "name" : "Test Tab Page",
+    "children" : [ {
+      "name" : "Verify Tabs is working propely or not",
+      "uid" : "89a25d5ea9b9c552",
+      "parentUid" : "1e530c9c5625ddf342d5f3749c156d64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642868901186,
+        "stop" : 1642868901892,
+        "duration" : 706
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1e530c9c5625ddf342d5f3749c156d64"
+  } ]
 }

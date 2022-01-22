@@ -1,0 +1,50 @@
+{
+  "uid" : "f5f04667c2f7a7d8",
+  "name" : "Verify empty field validation for Name,Gender,Mobile number input field",
+  "fullName" : "Test Student Registration Form.Verify empty field validation for Name,Gender,Mobile number input field",
+  "historyId" : "785968b83ce853cc2f25ac807356c9df",
+  "time" : {
+    "start" : 1642868785166,
+    "stop" : 1642868785726,
+    "duration" : 560
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Student Registration Form"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Student Registration Form"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify empty field validation for Name,Gender,Mobile number input field"
+  }, {
+    "name" : "package",
+    "value" : "Test Student Registration Form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5f04667c2f7a7d8.json",
+  "parameterValues" : [ ]
+}

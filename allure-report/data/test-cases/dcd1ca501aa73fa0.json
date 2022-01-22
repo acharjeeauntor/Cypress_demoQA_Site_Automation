@@ -1,0 +1,50 @@
+{
+  "uid" : "dcd1ca501aa73fa0",
+  "name" : "Verify Home checkbox can be checked or not",
+  "fullName" : "Test CheckBox Feature.Verify Home checkbox can be checked or not",
+  "historyId" : "2eaa615965a808b9f6e93b65b8e92dde",
+  "time" : {
+    "start" : 1642868662526,
+    "stop" : 1642868662903,
+    "duration" : 377
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test CheckBox Feature"
+  }, {
+    "name" : "testClass",
+    "value" : "Test CheckBox Feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Home checkbox can be checked or not"
+  }, {
+    "name" : "package",
+    "value" : "Test CheckBox Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dcd1ca501aa73fa0.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1642868757273' stop='1642868758834'>
+    <name>Test UploadDownloadPage Feature</name>
+    <title>Test UploadDownloadPage Feature</title>
+    <test-cases>
+        <test-case start='1642868757379' status='passed' stop='1642868757637'>
+            <name>Verify Download is working properly or not</name>
+            <title>Verify Download is working properly or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1642868757666' status='passed' stop='1642868758832'>
+            <name>Verify Upload is working properly or not</name>
+            <title>Verify Upload is working properly or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,12 +1,12 @@
 {
-  "uid" : "e2388008aa9b4b91",
-  "name" : "Verify Placeholders are visiable or not",
-  "fullName" : "Test Text Box Feature.Verify Placeholders are visiable or not",
-  "historyId" : "f93405f1f52ec32fc5b8bbaa8b58e2eb",
+  "uid" : "3a53705e1d30cb24",
+  "name" : "Verify Confirmation Cancel Alert message is working properly or not",
+  "fullName" : "Test alerts Feature.Verify Confirmation Cancel Alert message is working properly or not",
+  "historyId" : "72b0efca11a45e23109dfd232e43ee80",
   "time" : {
-    "start" : 1642174388227,
-    "stop" : 1642174388298,
-    "duration" : 71
+    "start" : 1642868510227,
+    "stop" : 1642868510403,
+    "duration" : 176
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -21,16 +21,16 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "suite",
-    "value" : "Test Text Box Feature"
+    "value" : "Test alerts Feature"
   }, {
     "name" : "testClass",
-    "value" : "Test Text Box Feature"
+    "value" : "Test alerts Feature"
   }, {
     "name" : "testMethod",
-    "value" : "Verify Placeholders are visiable or not"
+    "value" : "Verify Confirmation Cancel Alert message is working properly or not"
   }, {
     "name" : "package",
-    "value" : "Test Text Box Feature"
+    "value" : "Test alerts Feature"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -45,6 +45,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "e2388008aa9b4b91.json",
+  "source" : "3a53705e1d30cb24.json",
   "parameterValues" : [ ]
 }

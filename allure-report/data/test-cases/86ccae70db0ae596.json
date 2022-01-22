@@ -1,12 +1,12 @@
 {
-  "uid" : "ad9e87ed88d0463",
-  "name" : "Verify Text box is working properly or not using valid and invalid input",
-  "fullName" : "Test Text Box Feature.Verify Text box is working properly or not using valid and invalid input",
-  "historyId" : "7131bb9538b0e1af679b42ed8f5ce93a",
+  "uid" : "86ccae70db0ae596",
+  "name" : "Verify simple alert is working properly or not",
+  "fullName" : "Test alerts Feature.Verify simple alert is working properly or not",
+  "historyId" : "ad3bc47432888e5e013a8c3ea92ee741",
   "time" : {
-    "start" : 1642174388299,
-    "stop" : 1642174398654,
-    "duration" : 10355
+    "start" : 1642868503848,
+    "stop" : 1642868504102,
+    "duration" : 254
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -21,16 +21,16 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "suite",
-    "value" : "Test Text Box Feature"
+    "value" : "Test alerts Feature"
   }, {
     "name" : "testClass",
-    "value" : "Test Text Box Feature"
+    "value" : "Test alerts Feature"
   }, {
     "name" : "testMethod",
-    "value" : "Verify Text box is working properly or not using valid and invalid input"
+    "value" : "Verify simple alert is working properly or not"
   }, {
     "name" : "package",
-    "value" : "Test Text Box Feature"
+    "value" : "Test alerts Feature"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -45,6 +45,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "ad9e87ed88d0463.json",
+  "source" : "86ccae70db0ae596.json",
   "parameterValues" : [ ]
 }

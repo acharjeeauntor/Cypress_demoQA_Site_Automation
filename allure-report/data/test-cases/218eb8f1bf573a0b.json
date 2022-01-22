@@ -1,0 +1,50 @@
+{
+  "uid" : "218eb8f1bf573a0b",
+  "name" : "Verify using valid input Student Registration Form can be submit",
+  "fullName" : "Test Student Registration Form.Verify using valid input Student Registration Form can be submit",
+  "historyId" : "29503afe3961679654fe57fca0364a95",
+  "time" : {
+    "start" : 1642868788267,
+    "stop" : 1642868792360,
+    "duration" : 4093
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Student Registration Form"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Student Registration Form"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify using valid input Student Registration Form can be submit"
+  }, {
+    "name" : "package",
+    "value" : "Test Student Registration Form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "218eb8f1bf573a0b.json",
+  "parameterValues" : [ ]
+}

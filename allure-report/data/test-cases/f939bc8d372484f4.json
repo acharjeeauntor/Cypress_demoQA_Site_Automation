@@ -1,0 +1,50 @@
+{
+  "uid" : "f939bc8d372484f4",
+  "name" : "Verify Multiple input Auto Complete",
+  "fullName" : "Test Auto Complete.Verify Multiple input Auto Complete",
+  "historyId" : "cdaf3005b57a9e04d261ac5ae9471c9a",
+  "time" : {
+    "start" : 1642868838662,
+    "stop" : 1642868839806,
+    "duration" : 1144
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Auto Complete"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Auto Complete"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Multiple input Auto Complete"
+  }, {
+    "name" : "package",
+    "value" : "Test Auto Complete"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f939bc8d372484f4.json",
+  "parameterValues" : [ ]
+}

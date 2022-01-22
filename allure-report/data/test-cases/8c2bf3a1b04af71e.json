@@ -1,0 +1,50 @@
+{
+  "uid" : "8c2bf3a1b04af71e",
+  "name" : "Verify simple alert after 5 second is working properly or not",
+  "fullName" : "Test alerts Feature.Verify simple alert after 5 second is working properly or not",
+  "historyId" : "6923bcf5f9677a81a21188af073da796",
+  "time" : {
+    "start" : 1642868504206,
+    "stop" : 1642868510002,
+    "duration" : 5796
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test alerts Feature"
+  }, {
+    "name" : "testClass",
+    "value" : "Test alerts Feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify simple alert after 5 second is working properly or not"
+  }, {
+    "name" : "package",
+    "value" : "Test alerts Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c2bf3a1b04af71e.json",
+  "parameterValues" : [ ]
+}

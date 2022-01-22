@@ -1,0 +1,50 @@
+{
+  "uid" : "7a0fc63af7e54c15",
+  "name" : "Verify Text box is working properly or not using valid and invalid input",
+  "fullName" : "Test Text Box Feature.Verify Text box is working properly or not using valid and invalid input",
+  "historyId" : "7131bb9538b0e1af679b42ed8f5ce93a",
+  "time" : {
+    "start" : 1642868719151,
+    "stop" : 1642868727496,
+    "duration" : 8345
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Text Box Feature"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Text Box Feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Text box is working properly or not using valid and invalid input"
+  }, {
+    "name" : "package",
+    "value" : "Test Text Box Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a0fc63af7e54c15.json",
+  "parameterValues" : [ ]
+}

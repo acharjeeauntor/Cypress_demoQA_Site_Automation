@@ -1,0 +1,50 @@
+{
+  "uid" : "491a1eda609892fe",
+  "name" : "Verify Single input Auto Complete",
+  "fullName" : "Test Auto Complete.Verify Single input Auto Complete",
+  "historyId" : "5116f5bb1a1bbec3f5822a47b20e1233",
+  "time" : {
+    "start" : 1642868839876,
+    "stop" : 1642868840661,
+    "duration" : 785
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Auto Complete"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Auto Complete"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Single input Auto Complete"
+  }, {
+    "name" : "package",
+    "value" : "Test Auto Complete"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "491a1eda609892fe.json",
+  "parameterValues" : [ ]
+}

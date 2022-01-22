@@ -1,8 +1,19 @@
 {
-  "total" : 1,
+  "total" : 14,
   "items" : [ {
-    "uid" : "86f92977d02eff1ce3dd03744944c998",
-    "name" : "Test Text Box Feature",
+    "uid" : "fc71bb2cefd724d7a10cabc52a10e74d",
+    "name" : "Test alerts Feature",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "fd93c8ccb2c4fb015b730ff486d5c385",
+    "name" : "Test Selector Menu Page",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -10,6 +21,94 @@
       "passed" : 4,
       "unknown" : 0,
       "total" : 4
+    }
+  }, {
+    "uid" : "ccc9bc78b3d05333146a05b6e8ae1985",
+    "name" : "Test Student Registration Form",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "66456583dfdf38768a92482b096f380c",
+    "name" : "Test Browser Windows Feature",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "740f012cde691e9c181bb1ff224ceb7c",
+    "name" : "Test Modal Dialogs Feature",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "990184d54fcd63679e3bf5d313566293",
+    "name" : "Test CheckBox Feature",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "47d9f9a9942251d25d03669396062315",
+    "name" : "Test Radio button Feature",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "86f92977d02eff1ce3dd03744944c998",
+    "name" : "Test Text Box Feature",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "4c4111cbcd7c1a00128e26b3f86f7821",
+    "name" : "Test UploadDownloadPage Feature",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "e57fa46f7085c5b1512efd5b2f00f4c0",
+    "name" : "Test Selectable ",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
     }
   } ]
 }

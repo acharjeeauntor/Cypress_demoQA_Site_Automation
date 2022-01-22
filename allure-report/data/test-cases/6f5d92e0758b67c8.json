@@ -1,0 +1,50 @@
+{
+  "uid" : "6f5d92e0758b67c8",
+  "name" : "Verify No Radio button is disabled or not",
+  "fullName" : "Test Radio button Feature.Verify No Radio button is disabled or not",
+  "historyId" : "34cd35968a74e38f7e66d272d78133e",
+  "time" : {
+    "start" : 1642868691255,
+    "stop" : 1642868691298,
+    "duration" : 43
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Radio button Feature"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Radio button Feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify No Radio button is disabled or not"
+  }, {
+    "name" : "package",
+    "value" : "Test Radio button Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f5d92e0758b67c8.json",
+  "parameterValues" : [ ]
+}

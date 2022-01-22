@@ -43,5 +43,12 @@
      "shgdjsdhjsd",
      123456789
     ]
+  },
+  "menuData":{
+    "selectValue":"A root option",
+    "selectOne":"Mrs.",
+    "OldStyleSelectMenu":"Blue",
+    "StandardMultiSelect":"opel"
+
   }
 }
