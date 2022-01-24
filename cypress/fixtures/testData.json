@@ -88,6 +88,7 @@
         "userName": "",
         "password": ""
       }
-    ]
+    ],
+    "books":["Speaking JavaScript","Understanding ECMAScript 6","You Don't Know JS"]
   }
 }

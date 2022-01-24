@@ -13,8 +13,8 @@ describe('Test Login feature of Book Store Application', () => {
 
 
     it("Verify login with valid credantial is working properly or not", function () {
-        const username = this.data.bookApplication.register.userName
-        const password = this.data.bookApplication.register.password
+        const username = this.data.bookApplication.login.userName
+        const password = this.data.bookApplication.login.password
         loginPage.loginToTheApplication(username, password)
         loginPage.verifyValidLogin(username)
     })
@@ -29,7 +29,7 @@ describe('Test Login feature of Book Store Application', () => {
 
     })
 
-    it.only("Verify Empty field validation is showing or not", function () {
+    it("Verify Empty field validation is showing or not", function () {
 
         const totalInput = this.data.bookApplication.emptyField.length
         for (var i = 0; i < totalInput; i++) {
