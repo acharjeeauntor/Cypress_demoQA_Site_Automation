@@ -23,7 +23,6 @@ export class ProfilePage {
         })
         cy.on('window:confirm', () => true);
 
-        //cy.get(".rt-tbody").should('not.have.attr','role')
 
     }
 

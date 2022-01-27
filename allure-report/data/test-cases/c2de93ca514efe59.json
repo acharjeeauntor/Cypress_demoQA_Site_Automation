@@ -1,0 +1,56 @@
+{
+  "uid" : "c2de93ca514efe59",
+  "name" : "Verify delete all books is working properly or not",
+  "fullName" : "Test Profile feature of Book Store Application.Verify delete all books is working properly or not",
+  "historyId" : "7541400a76027472c950ceebb976dba1",
+  "time" : {
+    "start" : 1643308253615,
+    "stop" : 1643308257922,
+    "duration" : 4307
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 4000ms: Expected to find content: 'Delete All Books' but never did.",
+  "statusTrace" : "AssertionError: Timed out retrying after 4000ms: Expected to find content: 'Delete All Books' but never did.\n                    at ProfilePage.deleteAllBook (https://demoqa.com/__cypress/tests?p=cypress/integration/BookStoreApplication/Profile.js:179:8)\n                    at Context.eval (https://demoqa.com/__cypress/tests?p=cypress/integration/BookStoreApplication/Profile.js:234:17)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Profile feature of Book Store Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Profile feature of Book Store Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify delete all books is working properly or not"
+  }, {
+    "name" : "package",
+    "value" : "Test Profile feature of Book Store Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c2de93ca514efe59.json",
+  "parameterValues" : [ ]
+}

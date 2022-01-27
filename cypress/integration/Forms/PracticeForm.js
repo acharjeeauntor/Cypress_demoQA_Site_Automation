@@ -1,12 +1,14 @@
 /// <reference types="cypress"/>
 
 before(() => {
-  cy.visit("automation-practice-form")
-  cy.viewport(1280, 720)
   cy.fixture('testData').as('data')
 })
 
 describe('Test Student Registration Form', () => {
+  before(() => {
+    cy.visit("automation-practice-form")
+    cy.viewport(1280, 720)
+  })
 
   it("Verify empty field validation for Name,Gender,Mobile number input field", () => {
     cy.get('#submit').click()

@@ -3,7 +3,6 @@
 import { BookStorePage} from "../../PageObjects/BookStoreApplication/BookStorePage"
 
 before(() => {
-    cy.visit("books")
     cy.fixture('testData').as('data')
 })
 
@@ -11,7 +10,9 @@ before(() => {
 describe('Test Book Store feature of Book Store Application', () => {
     const bookStorePage = new BookStorePage()
 
-
+    before(() => {
+        cy.visit("books")
+    })
 
     it("Verify login with valid credantial from Book Store page", function () {
         const username = this.data.bookApplication.login.userName

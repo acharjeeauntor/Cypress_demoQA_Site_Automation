@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643308108479' stop='1643308129520'>
+    <name>Test Browser Windows Feature</name>
+    <title>Test Browser Windows Feature</title>
+    <test-cases>
+        <test-case start='1643308108480' status='passed' stop='1643308123386'>
+            <name>Verify Browser new Tab is working properly or not</name>
+            <title>Verify Browser new Tab is working properly or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643308123407' status='passed' stop='1643308129519'>
+            <name>Verify Browser new Window is working properly or not</name>
+            <title>Verify Browser new Window is working properly or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -2,12 +2,13 @@
 
 import { AlertPage } from "../../PageObjects/AlertFrameWindowsPages/AlertPage"
 
-before(() => {
-    cy.visit("alerts")
-})
+
 
 
 describe('Test alerts Feature', () => {
+    before(() => {
+        cy.visit("alerts")
+    })
 
     it("Verify simple alert is working properly or not", () => {
         const alertPage = new AlertPage()

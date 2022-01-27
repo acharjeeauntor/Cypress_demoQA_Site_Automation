@@ -1,13 +1,14 @@
 /// <reference types="cypress"/>
 import { RadioButtonPage } from "../../PageObjects/ElementPages/RadioButtonPage";
 
-before(() => {
-    cy.visit("radio-button")
-    
-})
+
 
 
 describe('Test Radio button Feature', ()=>{
+    before(() => {
+        cy.visit("radio-button")
+        
+    })
 
     it("Verify No Radio button is disabled or not", () => {
         cy.get("#noRadio").should('be.disabled')

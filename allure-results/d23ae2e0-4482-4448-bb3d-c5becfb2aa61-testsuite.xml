@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643308441371' stop='1643308459363'>
+    <name>Test Selectable </name>
+    <title>Test Selectable </title>
+    <test-cases>
+        <test-case start='1643308458323' status='passed' stop='1643308458731'>
+            <name>Verify list select is working properly or not</name>
+            <title>Verify list select is working properly or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643308458749' status='passed' stop='1643308459362'>
+            <name>Verify Grid select is working properly or not</name>
+            <title>Verify Grid select is working properly or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

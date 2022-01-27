@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643308167799' stop='1643308187698'>
+    <name>Test Book Store feature of Book Store Application</name>
+    <title>Test Book Store feature of Book Store Application</title>
+    <test-cases>
+        <test-case start='1643308181971' status='passed' stop='1643308183254'>
+            <name>Verify login with valid credantial from Book Store page</name>
+            <title>Verify login with valid credantial from Book Store page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643308183277' status='failed' stop='1643308187611'>
+            <name>Verify books can be add to collection or not</name>
+            <title>Verify books can be add to collection or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 4000ms: Expected to find content: 'Speaking JavaScript' but never did.</message>
+                <stack-trace>AssertionError: Timed out retrying after 4000ms: Expected to find content: 'Speaking JavaScript' but never did.
+                    at BookStorePage.addToCollection (https://demoqa.com/__cypress/tests?p=cypress/integration/BookStoreApplication/BookStore.js:115:8)
+                    at Context.eval (https://demoqa.com/__cypress/tests?p=cypress/integration/BookStoreApplication/BookStore.js:226:21)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

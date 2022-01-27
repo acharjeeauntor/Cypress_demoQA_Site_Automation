@@ -3,7 +3,6 @@
 import { ProfilePage } from "../../PageObjects/BookStoreApplication/ProfilePage"
 
 before(() => {
-    cy.visit("profile")
     cy.fixture('testData').as('data')
 })
 
@@ -11,6 +10,10 @@ before(() => {
 describe('Test Profile feature of Book Store Application', () => {
     const profilePage = new ProfilePage()
 
+    before(() => {
+        cy.visit("profile")
+        
+    })
     it("Verify login with valid credantial from Profile page", function () {
         const username = this.data.bookApplication.login.userName
         const password = this.data.bookApplication.login.password
@@ -22,9 +25,9 @@ describe('Test Profile feature of Book Store Application', () => {
 
     })
 
-    // it("Verify delete account is working properly or not", () => {
-    //     profilePage.deleteAccount()
-    // })
+    it("Verify delete account is working properly or not", () => {
+        profilePage.deleteAccount()
+    })
 
 })
 

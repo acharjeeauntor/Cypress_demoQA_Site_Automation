@@ -2,13 +2,15 @@
 
 import { TextBoxPage } from "../../PageObjects/ElementPages/TextBoxPage";
 
+
 before(() => {
-    cy.visit("text-box")
     cy.fixture('testData').as('data')
 })
 
-
 describe('Test Text Box Feature', () => {
+    before(() => {
+        cy.visit("text-box")
+    })
 
     it("Verify Placeholders are visiable or not", () => {
         cy.findElementByXpath("//input[@id='userName']").invoke('attr', 'placeholder').should('eq', 'Full Name')

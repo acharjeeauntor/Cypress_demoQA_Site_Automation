@@ -2,13 +2,15 @@
 
 import { CheckBoxPage } from "../../PageObjects/ElementPages/CheckBoxPage";
 
-before(() => {
-    cy.visit("checkbox")
+
+before(()=>{
     cy.fixture('testData').as('data')
 })
 
-
 describe('Test CheckBox Feature', ()=>{
+    before(function(){
+        cy.visit("checkbox")
+    })
 
     it("Verify Home checkbox can be checked or not", () => {
         const checkBox =  new CheckBoxPage()
@@ -19,6 +21,7 @@ describe('Test CheckBox Feature', ()=>{
     })
 
     it("Verify multiple checkbox can be checked or not", function(){
+        
         const checkBox =  new CheckBoxPage()
         const data = this.data.checkBoxData
         checkBox.clickExpandAllButton()

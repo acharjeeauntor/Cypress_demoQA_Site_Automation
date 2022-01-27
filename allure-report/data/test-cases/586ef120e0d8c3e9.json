@@ -1,0 +1,56 @@
+{
+  "uid" : "586ef120e0d8c3e9",
+  "name" : "Verify login with valid credantial is working properly or not",
+  "fullName" : "Test Login feature of Book Store Application.Verify login with valid credantial is working properly or not",
+  "historyId" : "4ec926b431160d520dbccdcd42d2a5d7",
+  "time" : {
+    "start" : 1643308208206,
+    "stop" : 1643308213512,
+    "duration" : 5306
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 4000ms: expected 'https://demoqa.com/login' to include '/profile'",
+  "statusTrace" : "AssertionError: Timed out retrying after 4000ms: expected 'https://demoqa.com/login' to include '/profile'\n                    at LoginPage.verifyValidLogin (https://demoqa.com/__cypress/tests?p=cypress/integration/BookStoreApplication/Login.js:113:14)\n                    at Context.eval (https://demoqa.com/__cypress/tests?p=cypress/integration/BookStoreApplication/Login.js:178:15)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Login feature of Book Store Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Login feature of Book Store Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify login with valid credantial is working properly or not"
+  }, {
+    "name" : "package",
+    "value" : "Test Login feature of Book Store Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "586ef120e0d8c3e9.json",
+  "parameterValues" : [ ]
+}

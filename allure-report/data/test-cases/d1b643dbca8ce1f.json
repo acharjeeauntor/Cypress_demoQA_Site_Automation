@@ -1,0 +1,56 @@
+{
+  "uid" : "d1b643dbca8ce1f",
+  "name" : "Verify delete account is working properly or not",
+  "fullName" : "Test Profile feature of Book Store Application.Verify delete account is working properly or not",
+  "historyId" : "91900e61c97b98c01692349bd41863cc",
+  "time" : {
+    "start" : 1643308258002,
+    "stop" : 1643308262276,
+    "duration" : 4274
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 4000ms: Expected to find content: 'Delete Account' but never did.",
+  "statusTrace" : "AssertionError: Timed out retrying after 4000ms: Expected to find content: 'Delete Account' but never did.\n                    at ProfilePage.deleteAccount (https://demoqa.com/__cypress/tests?p=cypress/integration/BookStoreApplication/Profile.js:190:8)\n                    at Context.eval (https://demoqa.com/__cypress/tests?p=cypress/integration/BookStoreApplication/Profile.js:237:17)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Profile feature of Book Store Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Profile feature of Book Store Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify delete account is working properly or not"
+  }, {
+    "name" : "package",
+    "value" : "Test Profile feature of Book Store Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d1b643dbca8ce1f.json",
+  "parameterValues" : [ ]
+}

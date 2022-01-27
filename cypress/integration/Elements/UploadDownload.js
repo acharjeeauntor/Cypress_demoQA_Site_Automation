@@ -2,11 +2,12 @@
 
 import { UploadDownloadPage } from "../../PageObjects/ElementPages/UploadDownloadPage"
 
-before(() => {
-    cy.visit("upload-download")
-})
+
 
 describe('Test UploadDownloadPage Feature', () => {
+    before(() => {
+        cy.visit("upload-download")
+    })
 
     it("Verify Download is working properly or not", () => {
         const uploadDownload = new UploadDownloadPage()

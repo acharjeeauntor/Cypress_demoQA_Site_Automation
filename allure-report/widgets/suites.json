@@ -1,6 +1,39 @@
 {
-  "total" : 14,
+  "total" : 17,
   "items" : [ {
+    "uid" : "530aca82d92f421313d34716b2e97895",
+    "name" : "Test Profile feature of Book Store Application",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "906d832b61edfe55b440520a35e52e82",
+    "name" : "Test Login feature of Book Store Application",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "a9d228ac967063b43babe07cb2013e3c",
+    "name" : "Test Book Store feature of Book Store Application",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
     "uid" : "fc71bb2cefd724d7a10cabc52a10e74d",
     "name" : "Test alerts Feature",
     "statistic" : {
@@ -69,39 +102,6 @@
   }, {
     "uid" : "47d9f9a9942251d25d03669396062315",
     "name" : "Test Radio button Feature",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "86f92977d02eff1ce3dd03744944c998",
-    "name" : "Test Text Box Feature",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "4c4111cbcd7c1a00128e26b3f86f7821",
-    "name" : "Test UploadDownloadPage Feature",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "e57fa46f7085c5b1512efd5b2f00f4c0",
-    "name" : "Test Selectable ",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

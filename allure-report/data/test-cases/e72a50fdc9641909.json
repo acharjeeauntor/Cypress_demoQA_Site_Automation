@@ -1,0 +1,50 @@
+{
+  "uid" : "e72a50fdc9641909",
+  "name" : "Verify Upload is working properly or not",
+  "fullName" : "Test UploadDownloadPage Feature.Verify Upload is working properly or not",
+  "historyId" : "2512a82f585e677bfdcb0051e21ad1b2",
+  "time" : {
+    "start" : 1643308406538,
+    "stop" : 1643308407289,
+    "duration" : 751
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test UploadDownloadPage Feature"
+  }, {
+    "name" : "testClass",
+    "value" : "Test UploadDownloadPage Feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Upload is working properly or not"
+  }, {
+    "name" : "package",
+    "value" : "Test UploadDownloadPage Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e72a50fdc9641909.json",
+  "parameterValues" : [ ]
+}

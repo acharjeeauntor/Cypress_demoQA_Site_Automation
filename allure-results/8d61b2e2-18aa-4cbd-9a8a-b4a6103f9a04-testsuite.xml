@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643308229442' stop='1643308262321'>
+    <name>Test Profile feature of Book Store Application</name>
+    <title>Test Profile feature of Book Store Application</title>
+    <test-cases>
+        <test-case start='1643308249957' status='passed' stop='1643308253593'>
+            <name>Verify login with valid credantial from Profile page</name>
+            <title>Verify login with valid credantial from Profile page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643308253615' status='failed' stop='1643308257922'>
+            <name>Verify delete all books is working properly or not</name>
+            <title>Verify delete all books is working properly or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 4000ms: Expected to find content: 'Delete All Books' but never did.</message>
+                <stack-trace>AssertionError: Timed out retrying after 4000ms: Expected to find content: 'Delete All Books' but never did.
+                    at ProfilePage.deleteAllBook (https://demoqa.com/__cypress/tests?p=cypress/integration/BookStoreApplication/Profile.js:179:8)
+                    at Context.eval (https://demoqa.com/__cypress/tests?p=cypress/integration/BookStoreApplication/Profile.js:234:17)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1643308258002' status='failed' stop='1643308262276'>
+            <name>Verify delete account is working properly or not</name>
+            <title>Verify delete account is working properly or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 4000ms: Expected to find content: 'Delete Account' but never did.</message>
+                <stack-trace>AssertionError: Timed out retrying after 4000ms: Expected to find content: 'Delete Account' but never did.
+                    at ProfilePage.deleteAccount (https://demoqa.com/__cypress/tests?p=cypress/integration/BookStoreApplication/Profile.js:190:8)
+                    at Context.eval (https://demoqa.com/__cypress/tests?p=cypress/integration/BookStoreApplication/Profile.js:237:17)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

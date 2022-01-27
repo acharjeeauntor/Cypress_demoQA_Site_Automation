@@ -2,12 +2,13 @@
 
 import { ModalDialogPage } from "../../PageObjects/AlertFrameWindowsPages/ModalDialogPage"
 
-before(() => {
-    cy.visit("modal-dialogs")
-})
 
 
 describe('Test Modal Dialogs Feature', ()=>{
+    before(() => {
+        cy.visit("modal-dialogs")
+    })
+    
 
     it("Verify small Modal Dialog is working properly or not", () => {
         const modalDialog =  new ModalDialogPage()

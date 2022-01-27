@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643308492096' stop='1643308511533'>
+    <name>Test Progress Page</name>
+    <title>Test Progress Page</title>
+    <test-cases>
+        <test-case start='1643308508166' status='passed' stop='1643308511532'>
+            <name>Verify Progress Bar is working propely or not</name>
+            <title>Verify Progress Bar is working propely or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

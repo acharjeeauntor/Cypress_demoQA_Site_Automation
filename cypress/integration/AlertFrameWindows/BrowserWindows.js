@@ -2,12 +2,13 @@
 
 import { BrowserWindowsPage } from "../../PageObjects/AlertFrameWindowsPages/BrowserWindowsPage"
 
-beforeEach(() => {
-    cy.visit("browser-windows")
-})
+
 
 
 describe('Test Browser Windows Feature', () => {
+    beforeEach(() => {
+        cy.visit("browser-windows")
+    })
     const browserWindows = new BrowserWindowsPage()
 
     it("Verify Browser new Tab is working properly or not", () => {

@@ -1,0 +1,50 @@
+{
+  "uid" : "c5d8625995da2cfb",
+  "name" : "Verify Confirmation Cancel Alert message is working properly or not",
+  "fullName" : "Test alerts Feature.Verify Confirmation Cancel Alert message is working properly or not",
+  "historyId" : "72b0efca11a45e23109dfd232e43ee80",
+  "time" : {
+    "start" : 1643308100076,
+    "stop" : 1643308100212,
+    "duration" : 136
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test alerts Feature"
+  }, {
+    "name" : "testClass",
+    "value" : "Test alerts Feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Confirmation Cancel Alert message is working properly or not"
+  }, {
+    "name" : "package",
+    "value" : "Test alerts Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5d8625995da2cfb.json",
+  "parameterValues" : [ ]
+}

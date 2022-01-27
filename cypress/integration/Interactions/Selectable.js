@@ -1,11 +1,12 @@
 /// <reference types="cypress"/>
 import { SelectablePage } from "../../PageObjects/Interactions/SelectablePage"
 
-before(() => {
-    cy.visit("selectable")
-  })
-  
+
   describe('Test Selectable ', () => {
+    before(() => {
+      cy.visit("selectable")
+    })
+    
     const selectablePage = new SelectablePage()
   
     it("Verify list select is working properly or not", () => {

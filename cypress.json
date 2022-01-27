@@ -1,4 +1,15 @@
 {
     "baseUrl": "https://demoqa.com/",
-    "chromeWebSecurity": false
+    "chromeWebSecurity": false,
+    "testFiles": [
+        "Elements/*.js",
+        "Forms/*.js",
+        "AlertFrameWindows/*.js",
+        "Widgets/*js",
+        "Interactions/*.js",
+        "BookStoreApplication/Login.js",
+        "BookStoreApplication/BookStore.js",
+        "BookStoreApplication/Profile.js"
+    ],
+    "projectId": "wbs7da"
 }

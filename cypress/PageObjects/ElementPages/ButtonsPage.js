@@ -14,4 +14,7 @@ export class ButtonsPage{
     cy.findElementByXpath("//button[normalize-space()='Click Me']").click()
     
     }
+
+
+
 }
