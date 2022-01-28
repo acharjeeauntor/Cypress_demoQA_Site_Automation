@@ -1,18 +1,18 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "children" : [ {
-    "name" : "Product defects",
+    "name" : "Test defects",
     "children" : [ {
-      "name" : "Timed out retrying after 4000ms: Expected to find content: 'Speaking JavaScript' but never did.",
+      "name" : "Timed out after waiting `60000ms` for your remote page to load.\n                \n                Your page did not fire its `load` event within `60000ms`.\n                \n                You can try increasing the `pageLoadTimeout` value in `cypress.json` to wait longer.\n                \n                Browsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n                \n                When this `load` event occurs, Cypress will continue running commands.\n                \n                Because this error occurred during a `before all` hook we are skipping the remaining tests in the current suite: `Test Progress Page`",
       "children" : [ {
-        "name" : "Verify books can be add to collection or not",
-        "uid" : "f9f0373f0100583c",
-        "parentUid" : "0a748db9b2c084d7731acc5ffd2d020c",
-        "status" : "failed",
+        "name" : "\"before all\" hook for \"Verify Progress Bar is working propely or not\"",
+        "uid" : "56760cfed8963fa",
+        "parentUid" : "8632756e362cb18c945f6e43065eb78c",
+        "status" : "broken",
         "time" : {
-          "start" : 1643308183277,
-          "stop" : 1643308187611,
-          "duration" : 4334
+          "start" : 1643364517361,
+          "stop" : 1643364517361,
+          "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
@@ -22,72 +22,9 @@
         "retriesStatusChange" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "0a748db9b2c084d7731acc5ffd2d020c"
-    }, {
-      "name" : "Timed out retrying after 4000ms: expected 'https://demoqa.com/login' to include '/profile'",
-      "children" : [ {
-        "name" : "Verify login with valid credantial is working properly or not",
-        "uid" : "586ef120e0d8c3e9",
-        "parentUid" : "f6fbafd0df3e186bf44a8b9b6559fd23",
-        "status" : "failed",
-        "time" : {
-          "start" : 1643308208206,
-          "stop" : 1643308213512,
-          "duration" : 5306
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "f6fbafd0df3e186bf44a8b9b6559fd23"
-    }, {
-      "name" : "Timed out retrying after 4000ms: Expected to find content: 'Delete All Books' but never did.",
-      "children" : [ {
-        "name" : "Verify delete all books is working properly or not",
-        "uid" : "c2de93ca514efe59",
-        "parentUid" : "730cb9fa8c654b38f501a4220265d592",
-        "status" : "failed",
-        "time" : {
-          "start" : 1643308253615,
-          "stop" : 1643308257922,
-          "duration" : 4307
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "730cb9fa8c654b38f501a4220265d592"
-    }, {
-      "name" : "Timed out retrying after 4000ms: Expected to find content: 'Delete Account' but never did.",
-      "children" : [ {
-        "name" : "Verify delete account is working properly or not",
-        "uid" : "d1b643dbca8ce1f",
-        "parentUid" : "a47aa692410477d5c9260f852982ab72",
-        "status" : "failed",
-        "time" : {
-          "start" : 1643308258002,
-          "stop" : 1643308262276,
-          "duration" : 4274
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "a47aa692410477d5c9260f852982ab72"
+      "uid" : "8632756e362cb18c945f6e43065eb78c"
     } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ],
   "name" : "categories"
 }

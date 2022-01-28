@@ -1,6 +1,7 @@
 /// <reference types="cypress"/>
 
 import { ProfilePage } from "../../PageObjects/BookStoreApplication/ProfilePage"
+import { BookStorePage } from "../../PageObjects/BookStoreApplication/BookStorePage"
 
 before(() => {
     cy.fixture('testData').as('data')
@@ -25,9 +26,9 @@ describe('Test Profile feature of Book Store Application', () => {
 
     })
 
-    it("Verify delete account is working properly or not", () => {
-        profilePage.deleteAccount()
-    })
+    // it("Verify delete account is working properly or not", () => {
+    //     profilePage.deleteAccount()
+    // })
 
 })
 

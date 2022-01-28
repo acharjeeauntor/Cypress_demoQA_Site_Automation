@@ -1,15 +1,18 @@
 {
     "baseUrl": "https://demoqa.com/",
-    "chromeWebSecurity": false,
     "testFiles": [
         "Elements/*.js",
         "Forms/*.js",
         "AlertFrameWindows/*.js",
         "Widgets/*js",
         "Interactions/*.js",
-        "BookStoreApplication/Login.js",
-        "BookStoreApplication/BookStore.js",
-        "BookStoreApplication/Profile.js"
+        "BookStoreApplication/*.js"
     ],
-    "projectId": "wbs7da"
+    "projectId": "wbs7da",
+    "videoUploadOnPasses":false,
+    "env":{
+        "projectURL":"https://demoqa.com/",
+        "browserSupport":"Chrome",
+        "QA_Name":"Auntor Acharja"
+    }
 }

@@ -1,37 +1,15 @@
 {
   "total" : 17,
   "items" : [ {
-    "uid" : "530aca82d92f421313d34716b2e97895",
-    "name" : "Test Profile feature of Book Store Application",
+    "uid" : "2844cf254023cdf2724ebe759b7d0f35",
+    "name" : "Test Progress Page",
     "statistic" : {
-      "failed" : 2,
-      "broken" : 0,
+      "failed" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "906d832b61edfe55b440520a35e52e82",
-    "name" : "Test Login feature of Book Store Application",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "a9d228ac967063b43babe07cb2013e3c",
-    "name" : "Test Book Store feature of Book Store Application",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 2
+      "total" : 1
     }
   }, {
     "uid" : "fc71bb2cefd724d7a10cabc52a10e74d",
@@ -54,6 +32,17 @@
       "passed" : 4,
       "unknown" : 0,
       "total" : 4
+    }
+  }, {
+    "uid" : "906d832b61edfe55b440520a35e52e82",
+    "name" : "Test Login feature of Book Store Application",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
     }
   }, {
     "uid" : "ccc9bc78b3d05333146a05b6e8ae1985",
@@ -89,8 +78,8 @@
       "total" : 2
     }
   }, {
-    "uid" : "990184d54fcd63679e3bf5d313566293",
-    "name" : "Test CheckBox Feature",
+    "uid" : "a9d228ac967063b43babe07cb2013e3c",
+    "name" : "Test Book Store feature of Book Store Application",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -100,8 +89,19 @@
       "total" : 2
     }
   }, {
-    "uid" : "47d9f9a9942251d25d03669396062315",
-    "name" : "Test Radio button Feature",
+    "uid" : "530aca82d92f421313d34716b2e97895",
+    "name" : "Test Profile feature of Book Store Application",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "990184d54fcd63679e3bf5d313566293",
+    "name" : "Test CheckBox Feature",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

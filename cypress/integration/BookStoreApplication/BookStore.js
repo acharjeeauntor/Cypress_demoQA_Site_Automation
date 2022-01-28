@@ -25,10 +25,6 @@ describe('Test Book Store feature of Book Store Application', () => {
         for (var i = 0; i < totalBooks; i++) {
             bookStorePage.addToCollection(this.data.bookApplication.books[i])
         }
-
-
-
-
     })
 
 })

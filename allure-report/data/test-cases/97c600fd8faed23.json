@@ -1,0 +1,58 @@
+{
+  "uid" : "97c600fd8faed23",
+  "name" : "Verify delete all books is working properly or not",
+  "fullName" : "Test Profile feature of Book Store Application.Verify delete all books is working properly or not",
+  "historyId" : "7541400a76027472c950ceebb976dba1",
+  "time" : {
+    "start" : 1643364233332,
+    "stop" : 1643364235788,
+    "duration" : 2456
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Profile feature of Book Store Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Profile feature of Book Store Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify delete all books is working properly or not"
+  }, {
+    "name" : "package",
+    "value" : "Test Profile feature of Book Store Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "14e54098890c67c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643363740974,
+        "stop" : 1643363743464,
+        "duration" : 2490
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97c600fd8faed23.json",
+  "parameterValues" : [ ]
+}

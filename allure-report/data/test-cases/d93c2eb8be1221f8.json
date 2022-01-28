@@ -1,0 +1,50 @@
+{
+  "uid" : "d93c2eb8be1221f8",
+  "name" : "Verify simple alert is working properly or not",
+  "fullName" : "Test alerts Feature.Verify simple alert is working properly or not",
+  "historyId" : "ad3bc47432888e5e013a8c3ea92ee741",
+  "time" : {
+    "start" : 1643364033831,
+    "stop" : 1643364034198,
+    "duration" : 367
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test alerts Feature"
+  }, {
+    "name" : "testClass",
+    "value" : "Test alerts Feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify simple alert is working properly or not"
+  }, {
+    "name" : "package",
+    "value" : "Test alerts Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d93c2eb8be1221f8.json",
+  "parameterValues" : [ ]
+}

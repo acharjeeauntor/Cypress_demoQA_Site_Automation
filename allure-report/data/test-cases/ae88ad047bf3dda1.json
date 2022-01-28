@@ -1,0 +1,50 @@
+{
+  "uid" : "ae88ad047bf3dda1",
+  "name" : "Verify small Modal Dialog is working properly or not",
+  "fullName" : "Test Modal Dialogs Feature.Verify small Modal Dialog is working properly or not",
+  "historyId" : "620c6456489fbb25c3413a433878dd87",
+  "time" : {
+    "start" : 1643364092373,
+    "stop" : 1643364094598,
+    "duration" : 2225
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Modal Dialogs Feature"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Modal Dialogs Feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify small Modal Dialog is working properly or not"
+  }, {
+    "name" : "package",
+    "value" : "Test Modal Dialogs Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae88ad047bf3dda1.json",
+  "parameterValues" : [ ]
+}

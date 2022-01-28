@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643363684379' stop='1643363718368'>
+    <name>Test Login feature of Book Store Application</name>
+    <title>Test Login feature of Book Store Application</title>
+    <test-cases>
+        <test-case start='1643363694335' status='passed' stop='1643363708757'>
+            <name>Verify login with valid credantial is working properly or not</name>
+            <title>Verify login with valid credantial is working properly or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643363708791' status='passed' stop='1643363715279'>
+            <name>Verify Error Message is showing or not when provide invalid Username and Password</name>
+            <title>Verify Error Message is showing or not when provide invalid Username and Password</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643363715289' status='passed' stop='1643363718367'>
+            <name>Verify Empty field validation is showing or not</name>
+            <title>Verify Empty field validation is showing or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

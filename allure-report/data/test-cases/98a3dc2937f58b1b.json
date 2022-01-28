@@ -1,0 +1,50 @@
+{
+  "uid" : "98a3dc2937f58b1b",
+  "name" : "Verify multiple checkbox can be checked or not",
+  "fullName" : "Test CheckBox Feature.Verify multiple checkbox can be checked or not",
+  "historyId" : "de440d661692e51fd10b21b8ed31ca0f",
+  "time" : {
+    "start" : 1643364280459,
+    "stop" : 1643364282406,
+    "duration" : 1947
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test CheckBox Feature"
+  }, {
+    "name" : "testClass",
+    "value" : "Test CheckBox Feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify multiple checkbox can be checked or not"
+  }, {
+    "name" : "package",
+    "value" : "Test CheckBox Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98a3dc2937f58b1b.json",
+  "parameterValues" : [ ]
+}

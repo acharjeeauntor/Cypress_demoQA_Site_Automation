@@ -1,0 +1,48 @@
+{
+  "uid" : "3dbc6421f21f9dbc",
+  "name" : "Verify Error Message is showing or not when provide invalid Username and Password",
+  "fullName" : "Test Login feature of Book Store Application.Verify Error Message is showing or not when provide invalid Username and Password",
+  "historyId" : "43c4007ea39a10e7c86bd19d85f97b6b",
+  "time" : {
+    "start" : 1643363708791,
+    "stop" : 1643363715279,
+    "duration" : 6488
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Login feature of Book Store Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Login feature of Book Store Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Error Message is showing or not when provide invalid Username and Password"
+  }, {
+    "name" : "package",
+    "value" : "Test Login feature of Book Store Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3dbc6421f21f9dbc.json",
+  "parameterValues" : [ ]
+}

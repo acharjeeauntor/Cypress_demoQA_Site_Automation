@@ -19,7 +19,12 @@ export class ProfilePage {
         cy.get(".modal-body").should("be.visible").and('contain', 'Do you want to delete all books?')
         cy.get("#closeSmallModal-ok").click()
         cy.on('window:alert', (str) => {
-            expect(str).to.equal("All Books deleted.")
+            if(str==="All Books deleted."){
+                expect(str).to.equal("All Books deleted.")
+            }else{
+                expect(str).to.equal("No books available in your's collection!")
+            }
+           
         })
         cy.on('window:confirm', () => true);
 

@@ -1,0 +1,50 @@
+{
+  "uid" : "35bbb1c1c024cc41",
+  "name" : "Verify Old Style Select Menu is working propely or not",
+  "fullName" : "Test Selector Menu Page.Verify Old Style Select Menu is working propely or not",
+  "historyId" : "aa5a9eb43fd9d0d450ac301c35be6269",
+  "time" : {
+    "start" : 1643364569363,
+    "stop" : 1643364569828,
+    "duration" : 465
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Selector Menu Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Selector Menu Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Old Style Select Menu is working propely or not"
+  }, {
+    "name" : "package",
+    "value" : "Test Selector Menu Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35bbb1c1c024cc41.json",
+  "parameterValues" : [ ]
+}

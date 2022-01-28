@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643364363674' stop='1643364383606'>
+    <name>Test Student Registration Form</name>
+    <title>Test Student Registration Form</title>
+    <test-cases>
+        <test-case start='1643364375886' status='passed' stop='1643364376632'>
+            <name>Verify empty field validation for Name,Gender,Mobile number input field</name>
+            <title>Verify empty field validation for Name,Gender,Mobile number input field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643364376733' status='passed' stop='1643364379295'>
+            <name>Verify invalid field validation for Email and Mobile number input field</name>
+            <title>Verify invalid field validation for Email and Mobile number input field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643364379319' status='passed' stop='1643364383603'>
+            <name>Verify using valid input Student Registration Form can be submit</name>
+            <title>Verify using valid input Student Registration Form can be submit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

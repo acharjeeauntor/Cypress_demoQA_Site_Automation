@@ -1,0 +1,50 @@
+{
+  "uid" : "ca1b24db4a26f402",
+  "name" : "Verify Grid select is working properly or not",
+  "fullName" : "Test Selectable .Verify Grid select is working properly or not",
+  "historyId" : "f354c5348a760020465e8df98445bf9f",
+  "time" : {
+    "start" : 1643364410661,
+    "stop" : 1643364411710,
+    "duration" : 1049
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Selectable "
+  }, {
+    "name" : "testClass",
+    "value" : "Test Selectable "
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Grid select is working properly or not"
+  }, {
+    "name" : "package",
+    "value" : "Test Selectable "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ca1b24db4a26f402.json",
+  "parameterValues" : [ ]
+}

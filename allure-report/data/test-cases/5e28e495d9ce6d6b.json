@@ -1,0 +1,50 @@
+{
+  "uid" : "5e28e495d9ce6d6b",
+  "name" : "Verify Yes & Impressive Radio button can be checked or not",
+  "fullName" : "Test Radio button Feature.Verify Yes & Impressive Radio button can be checked or not",
+  "historyId" : "37ef6e9b74496a3b0447ee4f5e11c136",
+  "time" : {
+    "start" : 1643364299661,
+    "stop" : 1643364300329,
+    "duration" : 668
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Radio button Feature"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Radio button Feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Yes & Impressive Radio button can be checked or not"
+  }, {
+    "name" : "package",
+    "value" : "Test Radio button Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e28e495d9ce6d6b.json",
+  "parameterValues" : [ ]
+}

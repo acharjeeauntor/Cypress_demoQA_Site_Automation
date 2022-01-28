@@ -1,0 +1,58 @@
+{
+  "uid" : "14d12c5266acf6da",
+  "name" : "Verify login with valid credantial is working properly or not",
+  "fullName" : "Test Login feature of Book Store Application.Verify login with valid credantial is working properly or not",
+  "historyId" : "4ec926b431160d520dbccdcd42d2a5d7",
+  "time" : {
+    "start" : 1643364180933,
+    "stop" : 1643364194766,
+    "duration" : 13833
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Login feature of Book Store Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Login feature of Book Store Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify login with valid credantial is working properly or not"
+  }, {
+    "name" : "package",
+    "value" : "Test Login feature of Book Store Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "76fa7a31cba6f729",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643363694335,
+        "stop" : 1643363708757,
+        "duration" : 14422
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14d12c5266acf6da.json",
+  "parameterValues" : [ ]
+}

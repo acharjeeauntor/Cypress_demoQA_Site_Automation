@@ -1,0 +1,50 @@
+{
+  "uid" : "c958e75e35c246d2",
+  "name" : "Verify Placeholders are visiable or not",
+  "fullName" : "Test Text Box Feature.Verify Placeholders are visiable or not",
+  "historyId" : "f93405f1f52ec32fc5b8bbaa8b58e2eb",
+  "time" : {
+    "start" : 1643364325801,
+    "stop" : 1643364326051,
+    "duration" : 250
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Text Box Feature"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Text Box Feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Placeholders are visiable or not"
+  }, {
+    "name" : "package",
+    "value" : "Test Text Box Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c958e75e35c246d2.json",
+  "parameterValues" : [ ]
+}

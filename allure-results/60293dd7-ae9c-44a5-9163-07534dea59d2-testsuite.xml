@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643364310155' stop='1643364334452'>
+    <name>Test Text Box Feature</name>
+    <title>Test Text Box Feature</title>
+    <test-cases>
+        <test-case start='1643364325801' status='passed' stop='1643364326051'>
+            <name>Verify Placeholders are visiable or not</name>
+            <title>Verify Placeholders are visiable or not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643364326080' status='passed' stop='1643364334450'>
+            <name>Verify Text box is working properly or not using valid and invalid input</name>
+            <title>Verify Text box is working properly or not using valid and invalid input</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

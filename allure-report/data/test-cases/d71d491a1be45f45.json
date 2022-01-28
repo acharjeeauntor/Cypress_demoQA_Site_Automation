@@ -1,0 +1,58 @@
+{
+  "uid" : "d71d491a1be45f45",
+  "name" : "Verify Empty field validation is showing or not",
+  "fullName" : "Test Login feature of Book Store Application.Verify Empty field validation is showing or not",
+  "historyId" : "a3f77ca802dccd9f2f1123dec6bfc088",
+  "time" : {
+    "start" : 1643364201543,
+    "stop" : 1643364204711,
+    "duration" : 3168
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Login feature of Book Store Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Login feature of Book Store Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Empty field validation is showing or not"
+  }, {
+    "name" : "package",
+    "value" : "Test Login feature of Book Store Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1d5408b09e779ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643363715289,
+        "stop" : 1643363718367,
+        "duration" : 3078
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d71d491a1be45f45.json",
+  "parameterValues" : [ ]
+}

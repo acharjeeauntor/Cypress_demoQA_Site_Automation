@@ -1,0 +1,50 @@
+{
+  "uid" : "35b662dd215981e7",
+  "name" : "Verify Confirmation OK Alert message is working properly or not",
+  "fullName" : "Test alerts Feature.Verify Confirmation OK Alert message is working properly or not",
+  "historyId" : "3468f3ed0ad34d9beed8b57edff5ab07",
+  "time" : {
+    "start" : 1643364040642,
+    "stop" : 1643364040879,
+    "duration" : 237
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test alerts Feature"
+  }, {
+    "name" : "testClass",
+    "value" : "Test alerts Feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Confirmation OK Alert message is working properly or not"
+  }, {
+    "name" : "package",
+    "value" : "Test alerts Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35b662dd215981e7.json",
+  "parameterValues" : [ ]
+}
