@@ -22,16 +22,16 @@
 //   // `config` is the resolved Cypress config
 // }
 
-const allureWriter = require('@shelex/cypress-allure-plugin/writer');
-
-module.exports = (on, config) => {
-    allureWriter(on, config);
-    return config;
-};
-
 
 const { isFileExist } = require('cy-verify-downloads');
 
 module.exports = (on, config) => {
   on('task', { isFileExist })
 }
+
+const allureWriter = require('@shelex/cypress-allure-plugin/writer');
+
+module.exports = (on, config) => {
+    allureWriter(on, config);
+    return config;
+};

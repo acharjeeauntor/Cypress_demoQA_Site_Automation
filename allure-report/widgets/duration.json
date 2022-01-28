@@ -1,380 +1,380 @@
 [ {
-  "uid" : "c336b49445e7f7c5",
-  "name" : "Verify Browser new Window is working properly or not",
-  "time" : {
-    "start" : 1643364064667,
-    "stop" : 1643364068999,
-    "duration" : 4332
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b7733bf33647b5e4",
-  "name" : "Verify list select is working properly or not",
-  "time" : {
-    "start" : 1643364409962,
-    "stop" : 1643364410552,
-    "duration" : 590
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d3ccfc9ea06c95fd",
-  "name" : "Verify Select value is working propely or not",
-  "time" : {
-    "start" : 1643364568191,
-    "stop" : 1643364568761,
-    "duration" : 570
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6cb9769562b8c40",
-  "name" : "Verify login with valid credantial from Book Store page",
-  "time" : {
-    "start" : 1643364121969,
-    "stop" : 1643364124612,
-    "duration" : 2643
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4e925e2cf3ea72e0",
-  "name" : "Verify Tabs is working propely or not",
-  "time" : {
-    "start" : 1643364589526,
-    "stop" : 1643364590270,
-    "duration" : 744
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "97c600fd8faed23",
-  "name" : "Verify delete all books is working properly or not",
-  "time" : {
-    "start" : 1643364233332,
-    "stop" : 1643364235788,
-    "duration" : 2456
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d94d73ccfb0a4576",
-  "name" : "Verify Confirmation Cancel Alert message is working properly or not",
-  "time" : {
-    "start" : 1643364040893,
-    "stop" : 1643364041100,
-    "duration" : 207
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6eede8c1eff8e7ed",
-  "name" : "Verify Large Modal Dialog is working properly or not",
-  "time" : {
-    "start" : 1643364094647,
-    "stop" : 1643364096682,
-    "duration" : 2035
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d93c2eb8be1221f8",
-  "name" : "Verify simple alert is working properly or not",
-  "time" : {
-    "start" : 1643364033831,
-    "stop" : 1643364034198,
-    "duration" : 367
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c45c585f1528848f",
-  "name" : "Verify Standard Multi Select is working propely or not",
-  "time" : {
-    "start" : 1643364569876,
-    "stop" : 1643364570224,
-    "duration" : 348
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9f1fe89b5d446982",
-  "name" : "Verify empty field validation for Name,Gender,Mobile number input field",
-  "time" : {
-    "start" : 1643364375886,
-    "stop" : 1643364376632,
-    "duration" : 746
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cb76831f876161e6",
-  "name" : "Verify Upload is working properly or not",
-  "time" : {
-    "start" : 1643364354190,
-    "stop" : 1643364355287,
-    "duration" : 1097
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "eae7b31312db1066",
-  "name" : "Verify invalid field validation for Email and Mobile number input field",
-  "time" : {
-    "start" : 1643364376733,
-    "stop" : 1643364379295,
-    "duration" : 2562
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cce397707b622954",
+  "uid" : "15d4ed0c20c3a427",
   "name" : "Verify Home checkbox can be checked or not",
   "time" : {
-    "start" : 1643364279802,
-    "stop" : 1643364280422,
-    "duration" : 620
+    "start" : 1643383200040,
+    "stop" : 1643383201326,
+    "duration" : 1286
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5a134a2d23f575f2",
-  "name" : "Verify buttons are working properly or not",
-  "time" : {
-    "start" : 1643364254509,
-    "stop" : 1643364255513,
-    "duration" : 1004
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "35b662dd215981e7",
-  "name" : "Verify Confirmation OK Alert message is working properly or not",
-  "time" : {
-    "start" : 1643364040642,
-    "stop" : 1643364040879,
-    "duration" : 237
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "14d12c5266acf6da",
-  "name" : "Verify login with valid credantial is working properly or not",
-  "time" : {
-    "start" : 1643364180933,
-    "stop" : 1643364194766,
-    "duration" : 13833
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fb5b9d1bf8cae9a6",
-  "name" : "Verify Download is working properly or not",
-  "time" : {
-    "start" : 1643364353633,
-    "stop" : 1643364354153,
-    "duration" : 520
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c7df0df6750274a5",
-  "name" : "Verify Browser new Tab is working properly or not",
-  "time" : {
-    "start" : 1643364051518,
-    "stop" : 1643364064575,
-    "duration" : 13057
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ca1b24db4a26f402",
-  "name" : "Verify Grid select is working properly or not",
-  "time" : {
-    "start" : 1643364410661,
-    "stop" : 1643364411710,
-    "duration" : 1049
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7784035912fe34be",
-  "name" : "Verify using valid input Student Registration Form can be submit",
-  "time" : {
-    "start" : 1643364379319,
-    "stop" : 1643364383603,
-    "duration" : 4284
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5bdfd4cc5a89bd4a",
-  "name" : "Verify Multiple input Auto Complete",
-  "time" : {
-    "start" : 1643364445563,
-    "stop" : 1643364446150,
-    "duration" : 587
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bb2248625ae19a8b",
-  "name" : "Verify No Radio button is disabled or not",
-  "time" : {
-    "start" : 1643364299510,
-    "stop" : 1643364299631,
-    "duration" : 121
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "98a3dc2937f58b1b",
-  "name" : "Verify multiple checkbox can be checked or not",
-  "time" : {
-    "start" : 1643364280459,
-    "stop" : 1643364282406,
-    "duration" : 1947
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "306388edf164b5df",
-  "name" : "Verify books can be add to collection or not",
-  "time" : {
-    "start" : 1643364124695,
-    "stop" : 1643364157054,
-    "duration" : 32359
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b2d02c50a541a738",
-  "name" : "Verify login with valid credantial from Profile page",
-  "time" : {
-    "start" : 1643364228465,
-    "stop" : 1643364233305,
-    "duration" : 4840
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f5dfad9f7618b35e",
-  "name" : "Verify simple alert after 5 second is working properly or not",
-  "time" : {
-    "start" : 1643364034266,
-    "stop" : 1643364040623,
-    "duration" : 6357
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d71d491a1be45f45",
-  "name" : "Verify Empty field validation is showing or not",
-  "time" : {
-    "start" : 1643364201543,
-    "stop" : 1643364204711,
-    "duration" : 3168
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "59ef1e736c4b8f2",
+  "uid" : "8de8431d8bfbcdb0",
   "name" : "Verify Single input Auto Complete",
   "time" : {
-    "start" : 1643364446185,
-    "stop" : 1643364446824,
-    "duration" : 639
+    "start" : 1643383706776,
+    "stop" : 1643383711371,
+    "duration" : 4595
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "35bbb1c1c024cc41",
-  "name" : "Verify Old Style Select Menu is working propely or not",
+  "uid" : "413a9a4e3aa18ff3",
+  "name" : "Verify login with valid credantial from Profile page",
   "time" : {
-    "start" : 1643364569363,
-    "stop" : 1643364569828,
-    "duration" : 465
+    "start" : 1643384226182,
+    "stop" : 1643384234809,
+    "duration" : 8627
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d82cf460aefaba1f",
+  "uid" : "68b64c637b33742f",
+  "name" : "Verify invalid field validation for Email and Mobile number input field",
+  "time" : {
+    "start" : 1643383456950,
+    "stop" : 1643383463795,
+    "duration" : 6845
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92fb51441fb80dc6",
+  "name" : "Verify prompt Alert message is working properly or not",
+  "time" : {
+    "start" : 1643383554658,
+    "stop" : 1643383555412,
+    "duration" : 754
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91cb7cf810481479",
+  "name" : "Verify Upload is working properly or not",
+  "time" : {
+    "start" : 1643383399786,
+    "stop" : 1643383403009,
+    "duration" : 3223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a455b2d2a2d4cc7",
+  "name" : "Verify multiple checkbox can be checked or not",
+  "time" : {
+    "start" : 1643383201367,
+    "stop" : 1643383205449,
+    "duration" : 4082
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d24af12dc06a48d",
+  "name" : "Verify empty field validation for Name,Gender,Mobile number input field",
+  "time" : {
+    "start" : 1643383454032,
+    "stop" : 1643383456637,
+    "duration" : 2605
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "883452dd6d8c8801",
+  "name" : "Verify books can be add to collection or not",
+  "time" : {
+    "start" : 1643384053867,
+    "stop" : 1643384091704,
+    "duration" : 37837
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "271fd9a52b6fe405",
+  "name" : "Verify No Radio button is disabled or not",
+  "time" : {
+    "start" : 1643383259554,
+    "stop" : 1643383259857,
+    "duration" : 303
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "293712b8a0233594",
+  "name" : "Verify Browser new Window is working properly or not",
+  "time" : {
+    "start" : 1643383611682,
+    "stop" : 1643383617418,
+    "duration" : 5736
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa3c8b086600e9ab",
+  "name" : "Verify Download is working properly or not",
+  "time" : {
+    "start" : 1643383398148,
+    "stop" : 1643383399445,
+    "duration" : 1297
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "822226ebeda108a4",
   "name" : "Verify Error Message is showing or not when provide invalid Username and Password",
   "time" : {
-    "start" : 1643364194847,
-    "stop" : 1643364201530,
-    "duration" : 6683
+    "start" : 1643384161454,
+    "stop" : 1643384167931,
+    "duration" : 6477
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "68535176e9564c84",
-  "name" : "Verify Select One is working propely or not",
+  "uid" : "a04857f33b9f0e93",
+  "name" : "Verify small Modal Dialog is working properly or not",
   "time" : {
-    "start" : 1643364568800,
-    "stop" : 1643364569349,
-    "duration" : 549
+    "start" : 1643383658531,
+    "stop" : 1643383661242,
+    "duration" : 2711
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "56760cfed8963fa",
-  "name" : "\"before all\" hook for \"Verify Progress Bar is working propely or not\"",
+  "uid" : "934798a83d8cd22",
+  "name" : "Verify Confirmation OK Alert message is working properly or not",
   "time" : {
-    "start" : 1643364517361,
-    "stop" : 1643364517361,
+    "start" : 1643383552342,
+    "stop" : 1643383553514,
+    "duration" : 1172
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61c02afa310595ae",
+  "name" : "Verify buttons are working properly or not",
+  "time" : {
+    "start" : 1643383128603,
+    "stop" : 1643383130934,
+    "duration" : 2331
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56f0b60f80e67bb3",
+  "name" : "Verify Large Modal Dialog is working properly or not",
+  "time" : {
+    "start" : 1643383661346,
+    "stop" : 1643383663909,
+    "duration" : 2563
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30a5a784a7096adf",
+  "name" : "Verify Multiple input Auto Complete",
+  "time" : {
+    "start" : 1643383705713,
+    "stop" : 1643383706704,
+    "duration" : 991
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d7d5ca356169a9",
+  "name" : "Verify Empty field validation is showing or not",
+  "time" : {
+    "start" : 1643384167939,
+    "stop" : 1643384171103,
+    "duration" : 3164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8933902e42c95b56",
+  "name" : "Verify Placeholders are visiable or not",
+  "time" : {
+    "start" : 1643383325452,
+    "stop" : 1643383326109,
+    "duration" : 657
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb3540a5965ddfd4",
+  "name" : "Verify Select value is working propely or not",
+  "time" : {
+    "start" : 1643383845159,
+    "stop" : 1643383846198,
+    "duration" : 1039
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f94bf023eb5a46bc",
+  "name" : "Verify using valid input Student Registration Form can be submit",
+  "time" : {
+    "start" : 1643383463861,
+    "stop" : 1643383474530,
+    "duration" : 10669
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad6986ee1c3ebddf",
+  "name" : "Verify Text box is working properly or not using valid and invalid input",
+  "time" : {
+    "start" : 1643383326264,
+    "stop" : 1643383338447,
+    "duration" : 12183
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5280d4f11b4e6d22",
+  "name" : "Verify simple alert is working properly or not",
+  "time" : {
+    "start" : 1643383543821,
+    "stop" : 1643383544862,
+    "duration" : 1041
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aba5fa9640f671f5",
+  "name" : "Verify Standard Multi Select is working propely or not",
+  "time" : {
+    "start" : 1643383847815,
+    "stop" : 1643383848261,
+    "duration" : 446
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ec118745d212435",
+  "name" : "Verify Yes & Impressive Radio button can be checked or not",
+  "time" : {
+    "start" : 1643383259962,
+    "stop" : 1643383261756,
+    "duration" : 1794
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2adc9b28e3f391f6",
+  "name" : "Verify login with valid credantial from Book Store page",
+  "time" : {
+    "start" : 1643384051400,
+    "stop" : 1643384053776,
+    "duration" : 2376
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1191ec8c17319421",
+  "name" : "Verify delete all books is working properly or not",
+  "time" : {
+    "start" : 1643384234825,
+    "stop" : 1643384237264,
+    "duration" : 2439
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e89a242082c322e4",
+  "name" : "Verify Grid select is working properly or not",
+  "time" : {
+    "start" : 1643383989947,
+    "stop" : 1643383989947,
     "duration" : 0
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "c958e75e35c246d2",
-  "name" : "Verify Placeholders are visiable or not",
+  "uid" : "a091150b3bb7f6e4",
+  "name" : "Verify simple alert after 5 second is working properly or not",
   "time" : {
-    "start" : 1643364325801,
-    "stop" : 1643364326051,
-    "duration" : 250
+    "start" : 1643383545001,
+    "stop" : 1643383552256,
+    "duration" : 7255
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5e28e495d9ce6d6b",
-  "name" : "Verify Yes & Impressive Radio button can be checked or not",
+  "uid" : "5933e175bba718c6",
+  "name" : "Verify Confirmation Cancel Alert message is working properly or not",
   "time" : {
-    "start" : 1643364299661,
-    "stop" : 1643364300329,
-    "duration" : 668
+    "start" : 1643383553584,
+    "stop" : 1643383554603,
+    "duration" : 1019
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ae88ad047bf3dda1",
-  "name" : "Verify small Modal Dialog is working properly or not",
+  "uid" : "e8780c76cdd35d2a",
+  "name" : "Verify list select is working properly or not",
   "time" : {
-    "start" : 1643364092373,
-    "stop" : 1643364094598,
-    "duration" : 2225
+    "start" : 1643383989936,
+    "stop" : 1643383989947,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c08924792451988",
+  "name" : "Verify Select One is working propely or not",
+  "time" : {
+    "start" : 1643383846258,
+    "stop" : 1643383847138,
+    "duration" : 880
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "30393458f5e39044",
-  "name" : "Verify prompt Alert message is working properly or not",
+  "uid" : "863dc85c7bccd646",
+  "name" : "Verify Progress Bar is working propely or not",
   "time" : {
-    "start" : 1643364041109,
-    "stop" : 1643364041460,
-    "duration" : 351
+    "start" : 1643383794147,
+    "stop" : 1643383794158,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "75f6123cac109fdf",
+  "name" : "Verify Old Style Select Menu is working propely or not",
+  "time" : {
+    "start" : 1643383847177,
+    "stop" : 1643383847746,
+    "duration" : 569
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "aed6885d2ec4fa36",
-  "name" : "Verify Text box is working properly or not using valid and invalid input",
+  "uid" : "c6e3058dd174d059",
+  "name" : "Verify login with valid credantial is working properly or not",
   "time" : {
-    "start" : 1643364326080,
-    "stop" : 1643364334450,
-    "duration" : 8370
+    "start" : 1643384145626,
+    "stop" : 1643384161366,
+    "duration" : 15740
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e8dca3fbe878dad",
+  "name" : "Verify Browser new Tab is working properly or not",
+  "time" : {
+    "start" : 1643383585334,
+    "stop" : 1643383611571,
+    "duration" : 26237
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c70f3be24a54ecd",
+  "name" : "Verify Tabs is working propely or not",
+  "time" : {
+    "start" : 1643383892216,
+    "stop" : 1643383896631,
+    "duration" : 4415
   },
   "status" : "passed",
   "severity" : "normal"

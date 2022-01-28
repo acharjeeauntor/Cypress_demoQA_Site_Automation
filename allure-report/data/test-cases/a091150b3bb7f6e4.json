@@ -1,0 +1,236 @@
+{
+  "uid" : "a091150b3bb7f6e4",
+  "name" : "Verify simple alert after 5 second is working properly or not",
+  "fullName" : "Verify simple alert after 5 second is working properly or not",
+  "historyId" : "8b403bde0767ce7641105d4e68455be4",
+  "time" : {
+    "start" : 1643383545001,
+    "stop" : 1643383552256,
+    "duration" : 7255
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "time" : { },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit alerts",
+      "time" : {
+        "start" : 1643383518117,
+        "stop" : 1643383543801,
+        "duration" : 25684
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "time" : {
+        "start" : 1643383543796,
+        "stop" : 1643383543797,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=2460493093641836&correlator=4356978069075101&output=ldjh&impl=fif&eid=31064575,44752585,31063247&vrg=2022012601&ptt=17&sc=1&sfv=1-0-38&ecs=20220128&iu_parts=21849154601:22343295815,Ad.Plus-Anchor&enc_prev_ius=/0/1&prev_iu_szs=320x100&prev_scp=site=demoqa.com&cookie=ID=eed7b1278b147443-22a9613a45d000b2:T=1643383546:RT=1643383546:S=ALNI_MaXUjbR5w5N1xxXVTVHl_8sQvCB9w&cdm=demoqa.com&bc=31&abxe=1&dt=1643383524978&lmt=1641409765&dlt=1643383519497&idt=5183&frm=23&biw=1280&bih=720&isw=1000&ish=660&oid=2&adxs=15&adys=660&adks=1054281660&ucis=c48pfpprycw2&ifi=2&u_his=3&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&u_tz=360&flash=0&dmc=4&nhd=1&url=https://demoqa.com/alerts&top=https://demoqa.com/__/#/tests/integration/AlertFrameWindows/Alert.js&vis=1&scr_x=0&scr_y=0&psz=970x-1&msz=970x-1&ga_vid=835836036.1643383524&ga_sid=1643383524&ga_hid=823943512&ga_fc=false&fws=772&ohw=970&btvi=0&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCwiIixbXV0.&nvt=1",
+      "time" : {
+        "start" : 1643383543798,
+        "stop" : 1643383543798,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST https://www.google-analytics.com/j/collect?v=1&_v=j96&a=823943512&t=pageview&_s=1&dl=https://demoqa.com/alerts&ul=en-us&de=UTF-8&dt=ToolsQA&sd=24-bit&sr=1280x720&vp=1000x660&je=0&_u=YAhAAEABAAAAAC~&jid=1133485950&gjid=1440209867&cid=835836036.1643383524&tid=UA-109033876-1&_gid=2106382093.1643383525&_r=1&gtm=2wg1q0MX8DD4S&z=1579476059",
+      "time" : {
+        "start" : 1643383543799,
+        "stop" : 1643383543799,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST 200 https://www.google-analytics.com/j/collect?v=1&_v=j96&a=823943512&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2Falerts&ul=en-us&de=UTF-8&dt=ToolsQA&sd=24-bit&sr=1280x720&vp=1000x660&je=0&_u=YAhAAEABAAAAAC~&jid=1133485950&gjid=1440209867&cid=835836036.1643383524&tid=UA-109033876-1&_gid=2106382093.1643383525&_r=1&gtm=2wg1q0MX8DD4S&z=1579476059",
+      "time" : {
+        "start" : 1643383543799,
+        "stop" : 1643383543799,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gda&tv=r20220126&st=env",
+      "time" : {
+        "start" : 1643383543800,
+        "stop" : 1643383543800,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "get #timerAlertButton",
+      "time" : {
+        "start" : 1643383546569,
+        "stop" : 1643383546706,
+        "duration" : 137
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1643383546707,
+        "stop" : 1643383547099,
+        "duration" : 392
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "wait 5000",
+      "time" : {
+        "start" : 1643383547099,
+        "stop" : 1643383552246,
+        "duration" : 5147
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "alert This alert appeared after 5 seconds",
+      "time" : {
+        "start" : 1643383552245,
+        "stop" : 1643383552245,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **This alert appeared after 5 seconds** to equal **This alert appeared after 5 seconds**",
+      "time" : {
+        "start" : 1643383552246,
+        "stop" : 1643383552246,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "This alert appeared after 5 seconds"
+      }, {
+        "name" : "expected",
+        "value" : "This alert appeared after 5 seconds"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "be0432c0f2375a6e",
+      "name" : "video recording",
+      "source" : "be0432c0f2375a6e.mp4",
+      "type" : "video/mp4",
+      "size" : 1216303
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test alerts Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a091150b3bb7f6e4.json",
+  "parameterValues" : [ ]
+}

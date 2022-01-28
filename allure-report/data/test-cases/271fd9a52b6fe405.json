@@ -1,0 +1,200 @@
+{
+  "uid" : "271fd9a52b6fe405",
+  "name" : "Verify No Radio button is disabled or not",
+  "fullName" : "Verify No Radio button is disabled or not",
+  "historyId" : "b772c0f0180d5bdd21a7cbbe0d2523ed",
+  "time" : {
+    "start" : 1643383259554,
+    "stop" : 1643383259857,
+    "duration" : 303
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "time" : { },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit radio-button",
+      "time" : {
+        "start" : 1643383229766,
+        "stop" : 1643383259515,
+        "duration" : 29749
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "time" : {
+        "start" : 1643383259510,
+        "stop" : 1643383259510,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=3354368819763985&correlator=3874120760635103&output=ldjh&impl=fif&eid=31063378,31064552,44752541,31063247,31062931&vrg=2022012502&ptt=17&sc=1&sfv=1-0-38&ecs=20220128&iu_parts=21849154601:22343295815,Ad.Plus-Anchor&enc_prev_ius=/0/1&prev_iu_szs=320x100&prev_scp=site=demoqa.com&cookie_enabled=1&cdm=demoqa.com&bc=31&abxe=1&dt=1643383234334&lmt=1641409765&dlt=1643383230493&idt=3681&frm=23&biw=1280&bih=720&isw=1000&ish=660&oid=2&adxs=15&adys=660&adks=1054281660&ucis=crclsqg4dvhu&ifi=2&u_his=3&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&u_tz=360&flash=0&dmc=4&nhd=1&url=https://demoqa.com/radio-button&top=https://demoqa.com/__/#/tests/integration/Elements/RadioButton.js&vis=1&scr_x=0&scr_y=0&psz=970x-1&msz=970x-1&ga_vid=634695019.1643383234&ga_sid=1643383234&ga_hid=605266374&ga_fc=false&fws=772&ohw=970&btvi=0&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCwiIl0.&nvt=1",
+      "time" : {
+        "start" : 1643383259512,
+        "stop" : 1643383259512,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST https://www.google-analytics.com/j/collect?v=1&_v=j96&a=605266374&t=pageview&_s=1&dl=https://demoqa.com/radio-button&ul=en-us&de=UTF-8&dt=ToolsQA&sd=24-bit&sr=1280x720&vp=1000x660&je=0&_u=YAhAAEABAAAAAC~&jid=453502013&gjid=2093436162&cid=634695019.1643383234&tid=UA-109033876-1&_gid=1779952113.1643383235&_r=1&gtm=2wg1q0MX8DD4S&z=1380647484",
+      "time" : {
+        "start" : 1643383259513,
+        "stop" : 1643383259513,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=3354368819763985&correlator=3874120760635103&output=ldjh&impl=fif&eid=31063378%2C31064552%2C44752541%2C31063247%2C31062931&vrg=2022012502&ptt=17&sc=1&sfv=1-0-38&ecs=20220128&iu_parts=21849154601%3A22343295815%2CAd.Plus-Anchor&enc_prev_ius=%2F0%2F1&prev_iu_szs=320x100&prev_scp=site%3Ddemoqa.com&cookie_enabled=1&cdm=demoqa.com&bc=31&abxe=1&dt=1643383234334&lmt=1641409765&dlt=1643383230493&idt=3681&frm=23&biw=1280&bih=720&isw=1000&ish=660&oid=2&adxs=15&adys=660&adks=1054281660&ucis=crclsqg4dvhu&ifi=2&u_his=3&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&u_tz=360&flash=0&dmc=4&nhd=1&url=https%3A%2F%2Fdemoqa.com%2Fradio-button&top=https%3A%2F%2Fdemoqa.com%2F__%2F%23%2Ftests%2Fintegration%2FElements%2FRadioButton.js&vis=1&scr_x=0&scr_y=0&psz=970x-1&msz=970x-1&ga_vid=634695019.1643383234&ga_sid=1643383234&ga_hid=605266374&ga_fc=false&fws=772&ohw=970&btvi=0&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCwiIl0.&nvt=1",
+      "time" : {
+        "start" : 1643383259513,
+        "stop" : 1643383259513,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST 200 https://www.google-analytics.com/j/collect?v=1&_v=j96&a=605266374&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2Fradio-button&ul=en-us&de=UTF-8&dt=ToolsQA&sd=24-bit&sr=1280x720&vp=1000x660&je=0&_u=YAhAAEABAAAAAC~&jid=453502013&gjid=2093436162&cid=634695019.1643383234&tid=UA-109033876-1&_gid=1779952113.1643383235&_r=1&gtm=2wg1q0MX8DD4S&z=1380647484",
+      "time" : {
+        "start" : 1643383259513,
+        "stop" : 1643383259513,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gpt&tv=2022012502&st=env",
+      "time" : {
+        "start" : 1643383259514,
+        "stop" : 1643383259514,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "get #noRadio",
+      "time" : {
+        "start" : 1643383259673,
+        "stop" : 1643383259855,
+        "duration" : 182
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<input#noRadio.custom-control-input.disabled>** to be **disabled**",
+      "time" : {
+        "start" : 1643383259845,
+        "stop" : 1643383259853,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "3884608f82e2f7cf",
+      "name" : "video recording",
+      "source" : "3884608f82e2f7cf.mp4",
+      "type" : "video/mp4",
+      "size" : 940955
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Radio button Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "271fd9a52b6fe405.json",
+  "parameterValues" : [ ]
+}

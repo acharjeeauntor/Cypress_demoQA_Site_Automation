@@ -1,0 +1,389 @@
+{
+  "uid" : "8933902e42c95b56",
+  "name" : "Verify Placeholders are visiable or not",
+  "fullName" : "Verify Placeholders are visiable or not",
+  "historyId" : "484e81dcdf395bbb213c69753d21ad62",
+  "time" : {
+    "start" : 1643383325452,
+    "stop" : 1643383326109,
+    "duration" : 657
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "time" : { },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "fixture (\"testData\")",
+      "time" : {
+        "start" : 1643383284222,
+        "stop" : 1643383284310,
+        "duration" : 88
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "as (\"data\")",
+      "time" : {
+        "start" : 1643383284310,
+        "stop" : 1643383284312,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "time" : { },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit text-box",
+      "time" : {
+        "start" : 1643383284335,
+        "stop" : 1643383325407,
+        "duration" : 41072
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "time" : {
+        "start" : 1643383325404,
+        "stop" : 1643383325404,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=1433975102790994&correlator=3984199975722099&output=ldjh&impl=fif&eid=44757101,31063224,31060545,31063877&vrg=2022011002&ptt=17&sc=1&sfv=1-0-38&ecs=20220128&iu_parts=21849154601:22343295815,Ad.Plus-Anchor&enc_prev_ius=/0/1&prev_iu_szs=320x100&prev_scp=site=demoqa.com&cookie_enabled=1&cdm=demoqa.com&bc=31&abxe=1&dt=1643383288692&lmt=1641409765&dlt=1643383285086&idt=3476&frm=23&biw=1280&bih=720&isw=1000&ish=660&oid=2&adxs=15&adys=660&adks=1054281660&ucis=ijdy4hba5duh&ifi=2&u_his=3&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&u_tz=360&flash=0&dmc=4&nhd=1&url=https://demoqa.com/text-box&top=https://demoqa.com/__/#/tests/integration/Elements/TextBox.js&vis=1&scr_x=0&scr_y=0&psz=970x-1&msz=970x-1&ga_vid=1876677639.1643383289&ga_sid=1643383289&ga_hid=1893952222&ga_fc=false&fws=772&ohw=970&btvi=0&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCwiIl0.&nvt=1",
+      "time" : {
+        "start" : 1643383325405,
+        "stop" : 1643383325405,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=1433975102790994&correlator=3984199975722099&output=ldjh&impl=fif&eid=44757101%2C31063224%2C31060545%2C31063877&vrg=2022011002&ptt=17&sc=1&sfv=1-0-38&ecs=20220128&iu_parts=21849154601%3A22343295815%2CAd.Plus-Anchor&enc_prev_ius=%2F0%2F1&prev_iu_szs=320x100&prev_scp=site%3Ddemoqa.com&cookie_enabled=1&cdm=demoqa.com&bc=31&abxe=1&dt=1643383288692&lmt=1641409765&dlt=1643383285086&idt=3476&frm=23&biw=1280&bih=720&isw=1000&ish=660&oid=2&adxs=15&adys=660&adks=1054281660&ucis=ijdy4hba5duh&ifi=2&u_his=3&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&u_tz=360&flash=0&dmc=4&nhd=1&url=https%3A%2F%2Fdemoqa.com%2Ftext-box&top=https%3A%2F%2Fdemoqa.com%2F__%2F%23%2Ftests%2Fintegration%2FElements%2FTextBox.js&vis=1&scr_x=0&scr_y=0&psz=970x-1&msz=970x-1&ga_vid=1876677639.1643383289&ga_sid=1643383289&ga_hid=1893952222&ga_fc=false&fws=772&ohw=970&btvi=0&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCwiIl0.&nvt=1",
+      "time" : {
+        "start" : 1643383325405,
+        "stop" : 1643383325405,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST https://www.google-analytics.com/j/collect?v=1&_v=j96&a=1893952222&t=pageview&_s=1&dl=https://demoqa.com/text-box&ul=en-us&de=UTF-8&dt=ToolsQA&sd=24-bit&sr=1280x720&vp=1000x660&je=0&_u=YAhAAEABAAAAAC~&jid=1556973716&gjid=1004667925&cid=1876677639.1643383289&tid=UA-109033876-1&_gid=1673874022.1643383292&_r=1&gtm=2wg1q0MX8DD4S&z=192302502",
+      "time" : {
+        "start" : 1643383325406,
+        "stop" : 1643383325406,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST 200 https://www.google-analytics.com/j/collect?v=1&_v=j96&a=1893952222&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2Ftext-box&ul=en-us&de=UTF-8&dt=ToolsQA&sd=24-bit&sr=1280x720&vp=1000x660&je=0&_u=YAhAAEABAAAAAC~&jid=1556973716&gjid=1004667925&cid=1876677639.1643383289&tid=UA-109033876-1&_gid=1673874022.1643383292&_r=1&gtm=2wg1q0MX8DD4S&z=192302502",
+      "time" : {
+        "start" : 1643383325406,
+        "stop" : 1643383325406,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gpt&tv=2022011002&st=env",
+      "time" : {
+        "start" : 1643383325407,
+        "stop" : 1643383325407,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "findElementByXpath (\"//input[@id='userName']\")",
+      "time" : {
+        "start" : 1643383325575
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "xpath //input[@id='userName']",
+        "time" : {
+          "start" : 1643383325585,
+          "stop" : 1643383325655,
+          "duration" : 70
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "invoke .attr(placeholder)",
+      "time" : {
+        "start" : 1643383325655,
+        "stop" : 1643383325819,
+        "duration" : 164
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **Full Name** to equal **Full Name**",
+      "time" : {
+        "start" : 1643383325819,
+        "stop" : 1643383325819,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "Full Name"
+      }, {
+        "name" : "expected",
+        "value" : "Full Name"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "findElementByXpath (\"//input[@id='userEmail']\")",
+      "time" : {
+        "start" : 1643383325820
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "xpath //input[@id='userEmail']",
+        "time" : {
+          "start" : 1643383325820,
+          "stop" : 1643383325827,
+          "duration" : 7
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "invoke .attr(placeholder)",
+      "time" : {
+        "start" : 1643383325827,
+        "stop" : 1643383325919,
+        "duration" : 92
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **name@example.com** to equal **name@example.com**",
+      "time" : {
+        "start" : 1643383325918,
+        "stop" : 1643383325918,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "name@example.com"
+      }, {
+        "name" : "expected",
+        "value" : "name@example.com"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "get #currentAddress",
+      "time" : {
+        "start" : 1643383325919,
+        "stop" : 1643383325991,
+        "duration" : 72
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "invoke .attr(placeholder)",
+      "time" : {
+        "start" : 1643383325991,
+        "stop" : 1643383326072,
+        "duration" : 81
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **Current Address** to equal **Current Address**",
+      "time" : {
+        "start" : 1643383326071,
+        "stop" : 1643383326071,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "Current Address"
+      }, {
+        "name" : "expected",
+        "value" : "Current Address"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "c61f4822d8130344",
+      "name" : "video recording",
+      "source" : "c61f4822d8130344.mp4",
+      "type" : "video/mp4",
+      "size" : 2243307
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 11,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Text Box Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8933902e42c95b56.json",
+  "parameterValues" : [ ]
+}

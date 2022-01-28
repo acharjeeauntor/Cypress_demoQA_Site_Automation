@@ -9,7 +9,7 @@
         "BookStoreApplication/*.js"
     ],
     "projectId": "wbs7da",
-    "videoUploadOnPasses":false,
+    "video":true,
     "env":{
         "projectURL":"https://demoqa.com/",
         "browserSupport":"Chrome",

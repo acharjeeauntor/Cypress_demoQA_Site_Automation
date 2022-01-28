@@ -1,0 +1,660 @@
+{
+  "uid" : "4a455b2d2a2d4cc7",
+  "name" : "Verify multiple checkbox can be checked or not",
+  "fullName" : "Verify multiple checkbox can be checked or not",
+  "historyId" : "9f628403d5ac5cc3519b04adea25c620",
+  "time" : {
+    "start" : 1643383201367,
+    "stop" : 1643383205449,
+    "duration" : 4082
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "time" : { },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "fixture (\"testData\")",
+      "time" : {
+        "start" : 1643383169040,
+        "stop" : 1643383169137,
+        "duration" : 97
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "as (\"data\")",
+      "time" : {
+        "start" : 1643383169137,
+        "stop" : 1643383169141,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "time" : { },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit checkbox",
+      "time" : {
+        "start" : 1643383169162,
+        "stop" : 1643383200019,
+        "duration" : 30857
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "time" : {
+        "start" : 1643383200014,
+        "stop" : 1643383200014,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST https://www.google-analytics.com/j/collect?v=1&_v=j96&a=292928544&t=pageview&_s=1&dl=https://demoqa.com/checkbox&ul=en-us&de=UTF-8&dt=ToolsQA&sd=24-bit&sr=1280x720&vp=1000x660&je=0&_u=YEBAAEABAAAAAC~&jid=42873069&gjid=1027889757&cid=1750549771.1643383175&tid=UA-109033876-1&_gid=1763592002.1643383175&_r=1&gtm=2wg1q0MX8DD4S&z=962798753",
+      "time" : {
+        "start" : 1643383200015,
+        "stop" : 1643383200015,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST 200 https://www.google-analytics.com/j/collect?v=1&_v=j96&a=292928544&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2Fcheckbox&ul=en-us&de=UTF-8&dt=ToolsQA&sd=24-bit&sr=1280x720&vp=1000x660&je=0&_u=YEBAAEABAAAAAC~&jid=42873069&gjid=1027889757&cid=1750549771.1643383175&tid=UA-109033876-1&_gid=1763592002.1643383175&_r=1&gtm=2wg1q0MX8DD4S&z=962798753",
+      "time" : {
+        "start" : 1643383200015,
+        "stop" : 1643383200015,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=1518370868088606&correlator=2380308748142186&output=ldjh&impl=fif&eid=31063377,31064558&vrg=2022012505&ptt=17&sc=1&sfv=1-0-38&ecs=20220128&iu_parts=21849154601:22343295815,Ad.Plus-Anchor&enc_prev_ius=/0/1&prev_iu_szs=320x100&prev_scp=site=demoqa.com&cookie_enabled=1&cdm=demoqa.com&bc=31&abxe=1&dt=1643383175287&lmt=1641409765&dlt=1643383171333&idt=3881&frm=23&biw=1280&bih=720&isw=1000&ish=660&oid=2&adxs=15&adys=660&adks=1054281660&ucis=9hz1cji1ce36&ifi=2&u_his=3&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&u_tz=360&flash=0&dmc=4&nhd=1&url=https://demoqa.com/checkbox&top=https://demoqa.com/__/#/tests/integration/Elements/CheckBox.js&vis=1&scr_x=0&scr_y=0&psz=970x-1&msz=970x-1&ga_vid=1750549771.1643383175&ga_sid=1643383175&ga_hid=292928544&ga_fc=true&fws=772&ohw=970&btvi=0&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCwiIl0.&nvt=1",
+      "time" : {
+        "start" : 1643383200016,
+        "stop" : 1643383200016,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=1518370868088606&correlator=2380308748142186&output=ldjh&impl=fif&eid=31063377%2C31064558&vrg=2022012505&ptt=17&sc=1&sfv=1-0-38&ecs=20220128&iu_parts=21849154601%3A22343295815%2CAd.Plus-Anchor&enc_prev_ius=%2F0%2F1&prev_iu_szs=320x100&prev_scp=site%3Ddemoqa.com&cookie_enabled=1&cdm=demoqa.com&bc=31&abxe=1&dt=1643383175287&lmt=1641409765&dlt=1643383171333&idt=3881&frm=23&biw=1280&bih=720&isw=1000&ish=660&oid=2&adxs=15&adys=660&adks=1054281660&ucis=9hz1cji1ce36&ifi=2&u_his=3&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&u_tz=360&flash=0&dmc=4&nhd=1&url=https%3A%2F%2Fdemoqa.com%2Fcheckbox&top=https%3A%2F%2Fdemoqa.com%2F__%2F%23%2Ftests%2Fintegration%2FElements%2FCheckBox.js&vis=1&scr_x=0&scr_y=0&psz=970x-1&msz=970x-1&ga_vid=1750549771.1643383175&ga_sid=1643383175&ga_hid=292928544&ga_fc=true&fws=772&ohw=970&btvi=0&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCwiIl0.&nvt=1",
+      "time" : {
+        "start" : 1643383200016,
+        "stop" : 1643383200016,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gpt&tv=2022012505&st=env",
+      "time" : {
+        "start" : 1643383200017,
+        "stop" : 1643383200017,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "get button.rct-option-expand-all",
+      "time" : {
+        "start" : 1643383202161,
+        "stop" : 1643383202223,
+        "duration" : 62
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1643383202223,
+        "stop" : 1643383202764,
+        "duration" : 541
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get label[for='tree-node-notes']",
+      "time" : {
+        "start" : 1643383202771,
+        "stop" : 1643383202829,
+        "duration" : 58
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1643383202829,
+        "stop" : 1643383203148,
+        "duration" : 319
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get label[for='tree-node-react']",
+      "time" : {
+        "start" : 1643383203149,
+        "stop" : 1643383203195,
+        "duration" : 46
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1643383203195,
+        "stop" : 1643383203603,
+        "duration" : 408
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get label[for='tree-node-angular']",
+      "time" : {
+        "start" : 1643383203603,
+        "stop" : 1643383203626,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1643383203626,
+        "stop" : 1643383203877,
+        "duration" : 251
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get label[for='tree-node-veu']",
+      "time" : {
+        "start" : 1643383203877,
+        "stop" : 1643383203923,
+        "duration" : 46
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1643383203923,
+        "stop" : 1643383204167,
+        "duration" : 244
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get label[for='tree-node-public']",
+      "time" : {
+        "start" : 1643383204167,
+        "stop" : 1643383204194,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1643383204194,
+        "stop" : 1643383204408,
+        "duration" : 214
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get label[for='tree-node-private']",
+      "time" : {
+        "start" : 1643383204408,
+        "stop" : 1643383204470,
+        "duration" : 62
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1643383204470,
+        "stop" : 1643383204693,
+        "duration" : 223
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get label[for='tree-node-wordFile']",
+      "time" : {
+        "start" : 1643383204693,
+        "stop" : 1643383204711,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1643383204712,
+        "stop" : 1643383205163,
+        "duration" : 451
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #result",
+      "time" : {
+        "start" : 1643383205163,
+        "stop" : 1643383205205,
+        "duration" : 42
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<div#result.display-result.mt-4>** to contain **notes**",
+      "time" : {
+        "start" : 1643383205205,
+        "stop" : 1643383205205,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #result",
+      "time" : {
+        "start" : 1643383205205,
+        "stop" : 1643383205227,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<div#result.display-result.mt-4>** to contain **react**",
+      "time" : {
+        "start" : 1643383205226,
+        "stop" : 1643383205226,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #result",
+      "time" : {
+        "start" : 1643383205227,
+        "stop" : 1643383205246,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<div#result.display-result.mt-4>** to contain **angular**",
+      "time" : {
+        "start" : 1643383205246,
+        "stop" : 1643383205246,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #result",
+      "time" : {
+        "start" : 1643383205246,
+        "stop" : 1643383205301,
+        "duration" : 55
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<div#result.display-result.mt-4>** to contain **veu**",
+      "time" : {
+        "start" : 1643383205301,
+        "stop" : 1643383205301,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #result",
+      "time" : {
+        "start" : 1643383205301,
+        "stop" : 1643383205362,
+        "duration" : 61
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<div#result.display-result.mt-4>** to contain **public**",
+      "time" : {
+        "start" : 1643383205361,
+        "stop" : 1643383205361,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #result",
+      "time" : {
+        "start" : 1643383205362,
+        "stop" : 1643383205418,
+        "duration" : 56
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<div#result.display-result.mt-4>** to contain **private**",
+      "time" : {
+        "start" : 1643383205418,
+        "stop" : 1643383205418,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #result",
+      "time" : {
+        "start" : 1643383205418,
+        "stop" : 1643383205448,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<div#result.display-result.mt-4>** to contain **wordFile**",
+      "time" : {
+        "start" : 1643383205438,
+        "stop" : 1643383205438,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "ef0fb676928743d0",
+      "name" : "video recording",
+      "source" : "ef0fb676928743d0.mp4",
+      "type" : "video/mp4",
+      "size" : 1217572
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 30,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test CheckBox Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a455b2d2a2d4cc7.json",
+  "parameterValues" : [ ]
+}

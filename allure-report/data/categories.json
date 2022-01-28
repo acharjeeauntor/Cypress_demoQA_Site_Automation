@@ -1,17 +1,76 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "`cy.task('isFileExist')` failed with the following error:\n\nThe task 'isFileExist' was not handled in the plugins file. The following tasks are registered: writeAllureResults\n\nFix this in your plugins file here:\n/home/auntor/Automation/cypress/projects/demoQASiteAutomation/cypress/plugins/index.js\n\nhttps://on.cypress.io/api/task",
+      "children" : [ {
+        "name" : "Verify Download is working properly or not",
+        "uid" : "fa3c8b086600e9ab",
+        "parentUid" : "b4d4493268de9a4cb5bc17894eb0ae2f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1643383398148,
+          "stop" : 1643383399445,
+          "duration" : 1297
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b4d4493268de9a4cb5bc17894eb0ae2f"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "Timed out after waiting `60000ms` for your remote page to load.\n                \n                Your page did not fire its `load` event within `60000ms`.\n                \n                You can try increasing the `pageLoadTimeout` value in `cypress.json` to wait longer.\n                \n                Browsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n                \n                When this `load` event occurs, Cypress will continue running commands.\n                \n                Because this error occurred during a `before all` hook we are skipping the remaining tests in the current suite: `Test Progress Page`",
+      "name" : "Timed out after waiting `60000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `60000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `/home/auntor/Automation/cypress/projects/demoQASiteAutomation/cypress.json` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands.",
       "children" : [ {
-        "name" : "\"before all\" hook for \"Verify Progress Bar is working propely or not\"",
-        "uid" : "56760cfed8963fa",
-        "parentUid" : "8632756e362cb18c945f6e43065eb78c",
+        "name" : "Verify Progress Bar is working propely or not",
+        "uid" : "863dc85c7bccd646",
+        "parentUid" : "f1af58a76c23adab85e65ae5d5f3b3a9",
         "status" : "broken",
         "time" : {
-          "start" : 1643364517361,
-          "stop" : 1643364517361,
+          "start" : 1643383794147,
+          "stop" : 1643383794158,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify list select is working properly or not",
+        "uid" : "e8780c76cdd35d2a",
+        "parentUid" : "f1af58a76c23adab85e65ae5d5f3b3a9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1643383989936,
+          "stop" : 1643383989947,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Grid select is working properly or not",
+        "uid" : "e89a242082c322e4",
+        "parentUid" : "f1af58a76c23adab85e65ae5d5f3b3a9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1643383989947,
+          "stop" : 1643383989947,
           "duration" : 0
         },
         "flaky" : false,
@@ -22,7 +81,7 @@
         "retriesStatusChange" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "8632756e362cb18c945f6e43065eb78c"
+      "uid" : "f1af58a76c23adab85e65ae5d5f3b3a9"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ],

@@ -4,8 +4,6 @@ import { ButtonsPage } from "../../PageObjects/ElementPages/ButtonsPage"
 
 
 
-
-
 describe('Test Button Feature', () => {
 
     before(() => {
@@ -21,7 +19,6 @@ describe('Test Button Feature', () => {
         cy.get("#rightClickMessage").should('contain', 'You have done a right click')
         buttons.dynamicClick()
         cy.get("#dynamicClickMessage").should('contain', 'You have done a dynamic click')
-
     })
 
 })

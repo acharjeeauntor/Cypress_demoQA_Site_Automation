@@ -1,0 +1,331 @@
+{
+  "uid" : "293712b8a0233594",
+  "name" : "Verify Browser new Window is working properly or not",
+  "fullName" : "Verify Browser new Window is working properly or not",
+  "historyId" : "006d4d70b2e01cbb5c1315e583fd0425",
+  "time" : {
+    "start" : 1643383611682,
+    "stop" : 1643383617418,
+    "duration" : 5736
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "\"before each\" hook",
+      "time" : {
+        "start" : 1643383611683,
+        "stop" : 1643383616405,
+        "duration" : 4722
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "visit browser-windows",
+        "time" : {
+          "start" : 1643383612292,
+          "stop" : 1643383616404,
+          "duration" : 4112
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "GET https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=1293851203974586&correlator=526693428329967&output=ldjh&impl=fif&eid=31064556,31062931&vrg=2022012504&ptt=17&sc=1&sfv=1-0-38&ecs=20220128&iu_parts=21849154601:22343295815,Ad.Plus-Anchor&enc_prev_ius=/0/1&prev_iu_szs=320x100&prev_scp=site=demoqa.com&cookie_enabled=1&cdm=demoqa.com&bc=31&abxe=1&dt=1643383613806&lmt=1641409765&dlt=1643383613091&idt=675&frm=23&biw=1280&bih=720&isw=1000&ish=660&oid=2&adxs=15&adys=660&adks=1054281660&ucis=ammj6nym659&ifi=2&u_his=6&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&u_tz=360&flash=0&dmc=4&nhd=1&url=https://demoqa.com/browser-windows&top=https://demoqa.com/__/#/tests/integration/AlertFrameWindows/BrowserWindows.js&vis=1&scr_x=0&scr_y=0&psz=970x-1&msz=970x-1&ga_vid=266363368.1643383614&ga_sid=1643383614&ga_hid=1959041796&ga_fc=false&fws=772&ohw=970&btvi=0&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCwiIl0.&nvt=1",
+        "time" : {
+          "start" : 1643383616401,
+          "stop" : 1643383616401,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "GET 200 https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+        "time" : {
+          "start" : 1643383616402,
+          "stop" : 1643383616402,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "POST https://www.google-analytics.com/j/collect?v=1&_v=j96&a=1959041796&t=pageview&_s=1&dl=https://demoqa.com/browser-windows&ul=en-us&de=UTF-8&dt=ToolsQA&sd=24-bit&sr=1280x720&vp=985x660&je=0&_u=YAhAAEABAAAAAC~&jid=82204866&gjid=1990364358&cid=266363368.1643383614&tid=UA-109033876-1&_gid=361817705.1643383614&_r=1&gtm=2wg1q0MX8DD4S&z=452326539",
+        "time" : {
+          "start" : 1643383616402,
+          "stop" : 1643383616402,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "POST 200 https://www.google-analytics.com/j/collect?v=1&_v=j96&a=1959041796&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2Fbrowser-windows&ul=en-us&de=UTF-8&dt=ToolsQA&sd=24-bit&sr=1280x720&vp=985x660&je=0&_u=YAhAAEABAAAAAC~&jid=82204866&gjid=1990364358&cid=266363368.1643383614&tid=UA-109033876-1&_gid=361817705.1643383614&_r=1&gtm=2wg1q0MX8DD4S&z=452326539",
+        "time" : {
+          "start" : 1643383616403,
+          "stop" : 1643383616403,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "GET https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gda&tv=r20220126&st=env",
+        "time" : {
+          "start" : 1643383616403,
+          "stop" : 1643383616403,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 6,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "window",
+      "time" : {
+        "start" : 1643383616411,
+        "stop" : 1643383616419,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "stub-1 [ function: open ] as popup",
+      "time" : {
+        "start" : 1643383616423,
+        "stop" : 1643383616423,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #windowButton",
+      "time" : {
+        "start" : 1643383616424,
+        "stop" : 1643383616462,
+        "duration" : 38
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1643383616462,
+        "stop" : 1643383616829,
+        "duration" : 367
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "page load --waiting for new page to load--",
+      "time" : {
+        "start" : 1643383616827,
+        "stop" : 1643383616827,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "stub-1 open(\"/sample\", \"_blank\", \"toolbar=yes, scrollbars=yes, resizable=yes, top=500, left=500, width=400, height=400\")",
+      "time" : {
+        "start" : 1643383616828,
+        "stop" : 1643383616828,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "new url https://demoqa.com/sample",
+      "time" : {
+        "start" : 1643383616833,
+        "stop" : 1643383617371,
+        "duration" : 538
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get @popup",
+      "time" : {
+        "start" : 1643383617370,
+        "stop" : 1643383617370,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected popup to have been called at least once",
+      "time" : {
+        "start" : 1643383617370,
+        "stop" : 1643383617370,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #sampleHeading",
+      "time" : {
+        "start" : 1643383617374,
+        "stop" : 1643383617411,
+        "duration" : 37
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<h1#sampleHeading>** to have text **This is a sample page**",
+      "time" : {
+        "start" : 1643383617411,
+        "stop" : 1643383617411,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "This is a sample page"
+      }, {
+        "name" : "expected",
+        "value" : "This is a sample page"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "5af68731c4d2e465",
+      "name" : "video recording",
+      "source" : "5af68731c4d2e465.mp4",
+      "type" : "video/mp4",
+      "size" : 1317931
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 18,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Browser Windows Feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "293712b8a0233594.json",
+  "parameterValues" : [ ]
+}
