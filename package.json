@@ -29,7 +29,6 @@
   "homepage": "https://github.com/acharjeeauntor/demoQA_Site_Automation#readme",
   "dependencies": {
     "@4tw/cypress-drag-drop": "^2.1.0",
-    "child-process": "^1.0.2",
     "cypress": "^9.2.0",
     "cypress-xpath": "^1.6.2"
   },
