@@ -11,7 +11,7 @@ export class ButtonsPage{
     }
 
     dynamicClick(){
-    cy.findElementByXpath("//button[normalize-space()='Click Me']").click()
+    cy.get("//button[normalize-space()='Click Me']").click()
     
     }
 

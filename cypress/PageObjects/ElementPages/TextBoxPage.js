@@ -9,10 +9,10 @@ const permanentAddressLocator="permanentAddress"
 export class TextBoxPage {
 
     enterFullName(name) {
-        cy.findElementByXpath(fullNameLocator).clear().type(name)
+        cy.get(fullNameLocator).clear().type(name)
     }
     enterEmail(email) {
-        const emailField = cy.findElementByXpath(emailLocator)
+        const emailField = cy.get(emailLocator)
         emailField.clear().type(email)
     }
     enterCurrentAddress(cAddress) {

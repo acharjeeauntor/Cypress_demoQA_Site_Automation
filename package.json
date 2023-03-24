@@ -33,7 +33,6 @@
     "allure-commandline": "^2.21.0",
     "cy-verify-downloads": "^0.1.13",
     "cypress": "^12.8.1",
-    "cypress-file-upload": "^5.0.8",
-    "cypress-xpath": "^2.0.1"
+    "cypress-file-upload": "^5.0.8"
   }
 }
