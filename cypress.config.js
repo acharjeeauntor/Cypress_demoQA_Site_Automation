@@ -16,10 +16,10 @@ module.exports = defineConfig({
     },
     baseUrl: 'https://demoqa.com/',
     specPattern: [
-      'cypress/e2e/Elements/*.js',
+      // 'cypress/e2e/Elements/*.js',
       // 'cypress/e2e/Forms/*.js',
       // 'cypress/e2e/AlertFrameWindows/*.js',
-      // 'cypress/e2e/Widgets/*js',
+      'cypress/e2e/Widgets/*js',
       // 'cypress/e2e/Interactions/*.js',
       // 'cypress/e2e/BookStoreApplication/*.js',
     ],
