@@ -61,4 +61,15 @@ npm test
 ![Screenshot from 2022-01-28 16-32-55](https://user-images.githubusercontent.com/38497405/151536387-958785f4-9a9c-46ac-8b3f-b281c42cf9f0.png)
 
 
+----------------------------------------------------------
 
+## Github Action Related Info:<br>
+1. I have added github actions in this project to test my script in CI way <br>
+2. To See the Demo Video click [here](https://youtu.be/vx7KNrIEp_k)<br>
+
+----------------------------------------------------------
+
+## Cypress Dashboard Related Info:<br>
+1. I have added a script in package.json file to run my script in Cypress Dashboard.While we run the script, the execution is done from the machine but the output will be shown in the cypress dashboard <br>
+2. To see more about cypress dashboard feature: https://www.tutorialspoint.com/cypress/cypress_dashboards.htm#:~:text=The%20features%20of%20Cypress%20Dashboard,and%20their%20access%20is%20possible. <br>
+3. To See the Demo Video click [here](https://youtu.be/LKob-vRMb7o)
