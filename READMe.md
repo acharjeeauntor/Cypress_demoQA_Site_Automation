@@ -73,3 +73,9 @@ npm test
 1. I have added a script in package.json file to run my script in Cypress Dashboard.While we run the script, the execution is done from the machine but the output will be shown in the cypress dashboard <br>
 2. To see more about cypress dashboard feature: https://www.tutorialspoint.com/cypress/cypress_dashboards.htm#:~:text=The%20features%20of%20Cypress%20Dashboard,and%20their%20access%20is%20possible. <br>
 3. To See the Demo Video click [here](https://youtu.be/LKob-vRMb7o)
+
+----------------------------------------------------------
+
+## Jenkins Related Info:<br>
+1. I have intregrate this project with jenkins through the github repository <br>
+2. To See the Demo Video click [here](https://youtu.be/3uoo2XM0ASY)<br>
