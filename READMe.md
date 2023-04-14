@@ -22,6 +22,12 @@ This is my First cypress project.
 
 ----------------------------------------------------------
 
+## Project Architecture: <br>
+![Cypress_project_Arch](https://user-images.githubusercontent.com/38497405/232031098-4a401180-79a7-45f6-ad22-de0f7f7f32a0.png)
+
+
+----------------------------------------------------------
+
 ## Requirement:<br>
 1. Automate Elements
 2. Automate Forms
